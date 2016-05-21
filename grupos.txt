@@ -1,0 +1,11 @@
+1,amigos
+2,familia
+3,red novia
+4,secundaria
+5,espe
+6,uba
+7,colegas
+8,conocidos
+9,paginas
+10,raros
+11,mejores amigos
