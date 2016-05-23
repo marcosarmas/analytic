@@ -64,7 +64,7 @@
 }
 ul {
 	list-style-type: none;
-	padding: 0px; 
+	padding: 0px;
 }
 ul li{
 	float: left;
@@ -80,7 +80,7 @@ h1.nombre1{
 	float: left;
 	font-family: verdana;
 	font-size: 16px;
-	
+
 }
 
 h1.nombre2{
@@ -114,8 +114,7 @@ h2 {
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <header>
-	<h1>Marcos Armas - TP Datos Personales</h1>
-	<h2>Amigos comunes entre mis contactos de Facebook</h2>
+	<h1>Amigos comunes entre mis contactos de Facebook</h2>
 </header>
 <div>
 	<div id="izquierda" class="iz">
@@ -123,39 +122,39 @@ h2 {
 	<div id="derecha" class="der">
 		<div id="nodo" class="nodo">
 			<div class="foto">
-			<img  class="foto" src="" /> 
+			<img  class="foto" src="" />
 			</div>
 			<div class="texto">
 			<h1 class="nombre1">Click en un nombre.</h1>
 			</div>
-			
+
 		</div>
 		<div style="float: left; width: 100%">
 			<h2>Amigos en común</h2>
 		</div>
 		<ul>
 			<li><div id="amigos" class="amigos">
-					
+
 					<div class="foto">
-					<img  class="foto" src="" /> 
+					<img  class="foto" src="" />
 					</div>
 					<div class="texto">
 					<h1 class="nombre1"></h1>
 					</div>
-					
+
 				</div>
 			</li>
 			<li><div id="amigos" class="amigos">
 					<div class="foto">
-					<img  class="foto" src="" /> 
+					<img  class="foto" src="" />
 					</div>
 					<div class="texto">
 					<h1 class="nombre1"></h1>
 					</div>
 				</div>
 			</li>
-			
-			
+
+
 		</ul>
 	</div>
 </div>
@@ -193,7 +192,7 @@ var nodes, links;
 d3.json("redpeque.json", function(error, classes) {
   nodes = cluster.nodes(packageHierarchy(classes));
   links = packageImports(nodes);
-	
+
   link = link
       .data(bundle(links))
     .enter().append("path")
@@ -212,7 +211,7 @@ d3.json("redpeque.json", function(error, classes) {
       .on("mouseover", mouseovered)
       .on("mouseout", mouseouted)
 	  .on("click", click);
-	  
+
 });
 
 function click(d) {
@@ -311,12 +310,12 @@ function crearNodo(d){
 }
 
 function crearNodo2(a, d){
-	nodes.forEach(function(n) { 
+	nodes.forEach(function(n) {
 		if (a == n.name && d != n.name){
 			d3.select("ul")
 				.append("li")
 				.html('<div id="nodo2"><img class="foto" src="' + n.image + '" ><h1 class="nombre2">' +n.name+"</h1></div>");
-			
+
 		}
 	});
 }
