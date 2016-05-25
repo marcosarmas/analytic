@@ -88,7 +88,7 @@
         <viz:position x="-2490.021" y="-1920.2639" z="0.0"></viz:position>
         <viz:color r="6" g="185" b="249"></viz:color>
       </node>
-      <node id="37" label="Valeria SantillÃƒÂ¡n">
+      <node id="37" label="Valeria Santillan">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -163,7 +163,7 @@
         <viz:position x="-780.946" y="-765.3387" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="77" label="Sonia MÃƒÂ¡rquez">
+      <node id="77" label="Sonia Ma¡rquez">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -188,7 +188,7 @@
         <viz:position x="413.14877" y="-2616.567" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="84" label="BarbÃ‚Â· Gorila">
+      <node id="84" label="Barbu Gorila">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -238,7 +238,7 @@
         <viz:position x="-1495.8888" y="-1352.9592" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="89" label="Renato Daniel MiÃƒÂ±o Rosales">
+      <node id="89" label="Renato Miño">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="5"></attvalue>
@@ -313,7 +313,7 @@
         <viz:position x="-509.10764" y="2572.7627" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="94" label="Santiago EspÃƒÂ­n GÃƒÂ³mez">
+      <node id="94" label="Santiago Espin">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -438,7 +438,7 @@
         <viz:position x="-1273.2898" y="2216.1296" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="126" label="Ana LucÃƒÂ­a BuitrÃƒÂ³n Almeida">
+      <node id="126" label="Ana Buitron">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="12"></attvalue>
@@ -463,7 +463,7 @@
         <viz:position x="362.6107" y="1288.4847" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="127" label="MarÃƒÂ­a Hipatia Reinoso VillamarÃƒÂ­n">
+      <node id="127" label="Maria Reinoso">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="9"></attvalue>
@@ -488,7 +488,7 @@
         <viz:position x="-225.0435" y="-366.03113" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="128" label="Jacqueline Suarez Tamayo">
+      <node id="128" label="Jacqueline Suarez">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -563,7 +563,7 @@
         <viz:position x="-2741.3218" y="-2262.47" z="0.0"></viz:position>
         <viz:color r="6" g="249" b="228"></viz:color>
       </node>
-      <node id="133" label="Francisco RenÃƒÅ¾ Alarc=n Bertin">
+      <node id="133" label="FranciscoAlarcon">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -613,7 +613,7 @@
         <viz:position x="1141.8165" y="2273.892" z="0.0"></viz:position>
         <viz:color r="128" g="249" b="6"></viz:color>
       </node>
-      <node id="137" label="Geomara Lisett RodrÃƒÂ­guez">
+      <node id="137" label="Geomara Rodriguez">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -738,7 +738,7 @@
         <viz:position x="-3021.9663" y="3297.7793" z="0.0"></viz:position>
         <viz:color r="249" g="28" b="6"></viz:color>
       </node>
-      <node id="150" label="Gloria Maria Valverde Montero">
+      <node id="150" label="Gloria Valverde">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="5"></attvalue>
@@ -763,7 +763,7 @@
         <viz:position x="-1947.8425" y="1045.0259" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="151" label="Sandy PazmiÃƒÂ±o">
+      <node id="151" label="Sandy Pazmiño">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="10"></attvalue>
@@ -813,7 +813,7 @@
         <viz:position x="-1094.0248" y="1837.5072" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="158" label="CabaÃƒÂ±as Bariloche Villa Arelauquen">
+      <node id="158" label="Cabañas Bariloche Villa Arelauquen">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -913,7 +913,7 @@
         <viz:position x="-2846.786" y="3219.087" z="0.0"></viz:position>
         <viz:color r="249" g="220" b="6"></viz:color>
       </node>
-      <node id="168" label="Michu Barrionuevo MarÃƒÂ­n">
+      <node id="168" label="Michu Barrionuevo">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="5"></attvalue>
@@ -963,7 +963,7 @@
         <viz:position x="259.49872" y="-1467.3931" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="170" label="Ana Maria Guzman Rojas">
+      <node id="170" label="Ana Guzman">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -1013,7 +1013,7 @@
         <viz:position x="-100.72469" y="-2675.3726" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="174" label="Cristian Rodrigo Molina Quinteros">
+      <node id="174" label="Cristian Molina">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -1038,7 +1038,7 @@
         <viz:position x="2161.4253" y="795.42737" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="176" label="Juan Carlos Tobar Tovar">
+      <node id="176" label="Juan Tobar">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="9"></attvalue>
@@ -1113,7 +1113,7 @@
         <viz:position x="-2202.2192" y="303.49567" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="179" label="Patricia Luque Madrid">
+      <node id="179" label="Patricia Madrid">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -1188,7 +1188,7 @@
         <viz:position x="1552.333" y="-1450.3823" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="187" label="PatrÃƒÂ³n Vicente LeÃƒÂ³n Latacunga">
+      <node id="187" label="Patron Vicente Leon Latacunga">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -1213,7 +1213,7 @@
         <viz:position x="1341.8253" y="-509.81995" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="189" label="Evelyn Pamela Baez Parra">
+      <node id="189" label="Evelyn Baez">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -1238,7 +1238,7 @@
         <viz:position x="-551.37" y="-2181.6018" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="191" label="VerÃƒÂ³nica Luzuriaga de PÃƒÂ©rez">
+      <node id="191" label="Veronica Luzuriaga">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -1263,7 +1263,7 @@
         <viz:position x="-1180.634" y="756.6694" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="193" label="Mercedes Mejia Araque">
+      <node id="193" label="Mercedes Mejia">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -1338,7 +1338,7 @@
         <viz:position x="-736.5475" y="2570.9653" z="0.0"></viz:position>
         <viz:color r="21" g="249" b="6"></viz:color>
       </node>
-      <node id="197" label="Luis Andino Torres">
+      <node id="197" label="Luis Andino">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -1538,7 +1538,7 @@
         <viz:position x="807.37787" y="-124.8167" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="209" label="Jose Manuel Mieles Mora">
+      <node id="209" label="Jose Mieles">
         <attvalues>
           <attvalue for="group" value="Colegas"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -1663,7 +1663,7 @@
         <viz:position x="-386.62567" y="-249.14815" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="217" label="NÃƒÂ©stor Herrera CÃƒÂ¡rdenas">
+      <node id="217" label="Nestor Herrera">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -1763,7 +1763,7 @@
         <viz:position x="1126.4154" y="1166.4761" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="222" label="Fabian Quimiz Bravo">
+      <node id="222" label="Fabian Quimiz">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -1813,7 +1813,7 @@
         <viz:position x="2441.8062" y="-446.74606" z="0.0"></viz:position>
         <viz:color r="165" g="199" b="0"></viz:color>
       </node>
-      <node id="226" label="Nicolet Fabara MK">
+      <node id="226" label="Nicolet Fabara">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -1888,7 +1888,7 @@
         <viz:position x="-2534.3865" y="-2913.6147" z="0.0"></viz:position>
         <viz:color r="249" g="178" b="6"></viz:color>
       </node>
-      <node id="230" label="Jose Luis Carrillo Medina">
+      <node id="230" label="Jose Carrillo">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -2013,7 +2013,7 @@
         <viz:position x="157.9189" y="-2667.7532" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="237" label="Juan Alberto Coello Suarez">
+      <node id="237" label="Juan Coello">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -2063,7 +2063,7 @@
         <viz:position x="2629.5142" y="-304.05927" z="0.0"></viz:position>
         <viz:color r="106" g="6" b="249"></viz:color>
       </node>
-      <node id="239" label="Gabriela Claudio Guerrero">
+      <node id="239" label="Gabriela Claudio">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -2088,7 +2088,7 @@
         <viz:position x="-2239.5376" y="1473.5414" z="0.0"></viz:position>
         <viz:color r="6" g="13" b="249"></viz:color>
       </node>
-      <node id="240" label="Edison Mera Arias">
+      <node id="240" label="Edison Mera">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="13"></attvalue>
@@ -2288,7 +2288,7 @@
         <viz:position x="-587.8939" y="-285.66125" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="251" label="Oscar Vargas Castillo">
+      <node id="251" label="Oscar Vargas">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -2363,7 +2363,7 @@
         <viz:position x="-1642.9678" y="829.83105" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="256" label="Abel Arturo Buitron Almeida">
+      <node id="256" label="Abel Buitron">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="17"></attvalue>
@@ -2388,7 +2388,7 @@
         <viz:position x="-232.64822" y="1445.0853" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="257" label="Rosita Yarleque de Sanchez">
+      <node id="257" label="Rosita Yarleque">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="6"></attvalue>
@@ -2513,7 +2513,7 @@
         <viz:position x="-2170.928" y="-1443.1053" z="0.0"></viz:position>
         <viz:color r="42" g="249" b="6"></viz:color>
       </node>
-      <node id="266" label="Margarita Genoveva Sanchez Yanez">
+      <node id="266" label="Margarita Sanchez">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -2563,7 +2563,7 @@
         <viz:position x="1112.8679" y="2092.3772" z="0.0"></viz:position>
         <viz:color r="13" g="163" b="0"></viz:color>
       </node>
-      <node id="268" label="Ruben Dario Grandes">
+      <node id="268" label="Ruben Grandes">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -2638,7 +2638,7 @@
         <viz:position x="1098.1519" y="-1953.6584" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="272" label="Silvia Susana Buitron Almeida">
+      <node id="272" label="Silvia Buitron">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="13"></attvalue>
@@ -2688,7 +2688,7 @@
         <viz:position x="10.548844" y="1954.7579" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="275" label="Juan Carlos Larrea Naranjo">
+      <node id="275" label="Juan Larrea">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -2763,7 +2763,7 @@
         <viz:position x="1893.7476" y="-1484.7189" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="278" label="Wilson Antonio Paccha">
+      <node id="278" label="Wilson Paccha">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -2813,7 +2813,7 @@
         <viz:position x="2553.0598" y="-606.6056" z="0.0"></viz:position>
         <viz:color r="249" g="49" b="6"></viz:color>
       </node>
-      <node id="281" label="Camilo Esteban Parra Olalla">
+      <node id="281" label="Camilo Parra">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="10"></attvalue>
@@ -2838,7 +2838,7 @@
         <viz:position x="-451.78775" y="-444.60678" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="282" label="Santiago Heredia Riera">
+      <node id="282" label="Santiago Heredia">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -2888,7 +2888,7 @@
         <viz:position x="3232.4888" y="2929.5981" z="0.0"></viz:position>
         <viz:color r="170" g="6" b="249"></viz:color>
       </node>
-      <node id="284" label="Cristian Alvarez Mena">
+      <node id="284" label="Cristian Alvarez">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -2963,7 +2963,7 @@
         <viz:position x="2235.8118" y="-711.427" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="289" label="Peleg Manuel Castillo Hidalgo">
+      <node id="289" label="Peleg Castillo">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -2988,7 +2988,7 @@
         <viz:position x="1.7686235" y="2451.1218" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="291" label="Eliseo Salazar ValdÃƒÂ©s">
+      <node id="291" label="Eliseo Salazar">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -3013,7 +3013,7 @@
         <viz:position x="-2118.9402" y="-2530.8398" z="0.0"></viz:position>
         <viz:color r="192" g="249" b="6"></viz:color>
       </node>
-      <node id="292" label="Paula PazmiÃƒÂ±o de Oliva">
+      <node id="292" label="Paula Pazmiño">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="12"></attvalue>
@@ -3063,7 +3063,7 @@
         <viz:position x="-556.7377" y="39.633682" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="296" label="Jorge Tigrero Ruiz">
+      <node id="296" label="Jorge Tigrero">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="12"></attvalue>
@@ -3088,7 +3088,7 @@
         <viz:position x="-1123.3364" y="2019.1239" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="297" label="AndrÃƒÂ©s Olalla">
+      <node id="297" label="Andres Olalla">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -3163,7 +3163,7 @@
         <viz:position x="2353.4058" y="151.22011" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="300" label="Galo Salazar Espinoza">
+      <node id="300" label="Galo Salazar">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -3238,7 +3238,7 @@
         <viz:position x="-1314.5747" y="1155.2916" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="308" label="Nancy Jeanneth SimbaÃƒÂ±a Basantes">
+      <node id="308" label="Nancy Simbaña">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -3313,7 +3313,7 @@
         <viz:position x="-410.74493" y="-58.748436" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="311" label="Melissa Elizabeth Ortiz P">
+      <node id="311" label="Melissa Elizabeth">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -3388,7 +3388,7 @@
         <viz:position x="-330.35806" y="1747.9656" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="314" label="Juan Carlos ParreÃƒÂ±o">
+      <node id="314" label="Juan Parreño">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -3438,7 +3438,7 @@
         <viz:position x="-406.45197" y="595.9026" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="317" label="Dario CalderÃƒÂ³n SuÃƒÂ¡rez">
+      <node id="317" label="Dario Calderon">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -3513,7 +3513,7 @@
         <viz:position x="100.141655" y="-210.597" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="320" label="Santiago Ayala Teran">
+      <node id="320" label="Santiago Ayala">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -3538,7 +3538,7 @@
         <viz:position x="-802.18506" y="-1306.2366" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="321" label="Carlos Torres Fonseca">
+      <node id="321" label="Carlos Torres">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -3563,7 +3563,7 @@
         <viz:position x="-394.12878" y="-1456.737" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="322" label="VÃƒÂ­ctor PÃƒÂ©rez">
+      <node id="322" label="Victor Perez">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -3613,7 +3613,7 @@
         <viz:position x="-654.34863" y="392.15814" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="326" label="Cristina NarvÃƒÂ¡ez">
+      <node id="326" label="Cristina Narvaez">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -3688,7 +3688,7 @@
         <viz:position x="-1407.8102" y="32.243893" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="330" label="Angel CaÃƒÂ±ar">
+      <node id="330" label="Angel Cañar">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -3738,7 +3738,7 @@
         <viz:position x="178.68257" y="45.579754" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="332" label="Juan Carlos Velasquez Baquedano">
+      <node id="332" label="Juan Velasquez">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -3888,7 +3888,7 @@
         <viz:position x="458.77722" y="-1386.5616" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="339" label="Fernando Jacome Karolys">
+      <node id="339" label="Fernando Jacome">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -4088,7 +4088,7 @@
         <viz:position x="-990.68555" y="-1657.4193" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="347" label="Paul CedeÃƒÂ±o">
+      <node id="347" label="Paul Cedeño">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -4163,7 +4163,7 @@
         <viz:position x="1159.3313" y="-560.3537" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="350" label="AmÃƒÂ©rica Armas">
+      <node id="350" label="America Armas">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="17"></attvalue>
@@ -4213,7 +4213,7 @@
         <viz:position x="-617.0829" y="-1466.5244" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="352" label="Franco OrdoÃƒÂ±ez Leon">
+      <node id="352" label="Franco Ordoñez">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -4238,7 +4238,7 @@
         <viz:position x="98.54598" y="-1994.8186" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="354" label="Juan Carlos Jimenez Velez">
+      <node id="354" label="Juan Jimenez">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="9"></attvalue>
@@ -4313,7 +4313,7 @@
         <viz:position x="-2826.7073" y="-2752.831" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="242"></viz:color>
       </node>
-      <node id="359" label="Cristian FabiÃƒÂ¡n SantamarÃƒÂ­a Paez">
+      <node id="359" label="Cristian Santamaria">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="6"></attvalue>
@@ -4388,7 +4388,7 @@
         <viz:position x="-1481.107" y="2151.0974" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="366" label="VizcaÃƒÂ­no Hernan">
+      <node id="366" label="Vizcaino Hernan">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -4463,7 +4463,7 @@
         <viz:position x="-887.81647" y="1133.5387" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="371" label="RaÃ‚Â·l Rosero Miranda">
+      <node id="371" label="Raull Rosero ">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -4488,7 +4488,7 @@
         <viz:position x="1775.0118" y="-1642.7169" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="372" label="Belgica Ibarra Quiroz">
+      <node id="372" label="Belgica Ibarra ">
         <attvalues>
           <attvalue for="group" value="Colegas"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -4563,7 +4563,7 @@
         <viz:position x="-1093.2592" y="2344.2988" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="375" label="Patricia Vasquez Duarte">
+      <node id="375" label="Patricia Vasquez ">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="13"></attvalue>
@@ -4613,7 +4613,7 @@
         <viz:position x="-2665.8489" y="141.31766" z="0.0"></viz:position>
         <viz:color r="192" g="6" b="249"></viz:color>
       </node>
-      <node id="379" label="Alfredo Xavier Torres Pozo">
+      <node id="379" label="Alfredo Torres">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="18"></attvalue>
@@ -4713,7 +4713,7 @@
         <viz:position x="-30.92853" y="-396.53268" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="383" label="Gabriel Cerda Sanchez">
+      <node id="383" label="Gabriel Cerda ">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -4738,7 +4738,7 @@
         <viz:position x="-2287.0933" y="-1172.5378" z="0.0"></viz:position>
         <viz:color r="6" g="206" b="249"></viz:color>
       </node>
-      <node id="384" label="Jorge Banderas RodrÃƒÂ­guez">
+      <node id="384" label="Jorge Banderas">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -4913,7 +4913,7 @@
         <viz:position x="-1010.1217" y="960.8089" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="392" label="Sarita Lozano Samaniego">
+      <node id="392" label="Sarita Lozano">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -4988,7 +4988,7 @@
         <viz:position x="1519.7174" y="2452.0999" z="0.0"></viz:position>
         <viz:color r="6" g="249" b="142"></viz:color>
       </node>
-      <node id="395" label="Hiv ProaÃƒÂ±o">
+      <node id="395" label="Hiv Proaño">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -5013,7 +5013,7 @@
         <viz:position x="84.3705" y="-1547.4193" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="398" label="Juan PeÃƒÂ±aherrera Sandoval">
+      <node id="398" label="Juan Peñaherrera">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -5138,7 +5138,7 @@
         <viz:position x="1477.4086" y="1079.5442" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="403" label="VerÃƒÂ³nica de RiofrÃƒÂ­o">
+      <node id="403" label="Veronica de Riofrio">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="13"></attvalue>
@@ -5188,7 +5188,7 @@
         <viz:position x="-456.65152" y="406.70746" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="406" label="RamÃƒÂ³n Asensio">
+      <node id="406" label="Ramon Asensio">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="6"></attvalue>
@@ -5413,7 +5413,7 @@
         <viz:position x="194.36234" y="-1013.74615" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="417" label="JosÃƒÂ© Nieto">
+      <node id="417" label="Jose Nieto">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="15"></attvalue>
@@ -5463,7 +5463,7 @@
         <viz:position x="953.5572" y="-482.382" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="420" label="Ximena Vaca Merino">
+      <node id="420" label="Ximena Vaca">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -5563,7 +5563,7 @@
         <viz:position x="879.4178" y="702.21216" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="424" label="Juan AmÃƒÂ³n">
+      <node id="424" label="Juan Amon">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -5638,7 +5638,7 @@
         <viz:position x="-680.9728" y="204.86209" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="427" label="Cristian SÃƒÂ¡enz">
+      <node id="427" label="Cristian Saenz">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -5763,7 +5763,7 @@
         <viz:position x="-1037.7423" y="272.50537" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="432" label="Vale Cabezas GÃƒÂ³mez">
+      <node id="432" label="Vale Cabezas">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -5813,7 +5813,7 @@
         <viz:position x="286.49454" y="-2095.936" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="434" label="Johnny Fabricio Andino Gavidia">
+      <node id="434" label="Johnny Andino">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -5838,7 +5838,7 @@
         <viz:position x="1300.2494" y="1863.4863" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="435" label="Cristian AscÃƒÂ¡zubi Reyes">
+      <node id="435" label="Cristian Ascazubi">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="10"></attvalue>
@@ -5913,7 +5913,7 @@
         <viz:position x="966.3898" y="233.1285" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="438" label="Pepito AucapiÃƒÂ±a">
+      <node id="438" label="Pepito Aucapiña">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -5938,7 +5938,7 @@
         <viz:position x="2031.6305" y="2788.8225" z="0.0"></viz:position>
         <viz:color r="128" g="6" b="249"></viz:color>
       </node>
-      <node id="439" label="Soraita PeÃƒÂ±aherrera Zambrano">
+      <node id="439" label="Soraita Peñaherrera">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -6038,7 +6038,7 @@
         <viz:position x="-2878.7786" y="-2396.2466" z="0.0"></viz:position>
         <viz:color r="249" g="92" b="6"></viz:color>
       </node>
-      <node id="443" label="Cesar Andres Flores Sanchez">
+      <node id="443" label="Cesar Flores">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -6313,7 +6313,7 @@
         <viz:position x="1543.6951" y="-644.0776" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="457" label="Marco Vinicio Castillo Hidalgo">
+      <node id="457" label="Marco Castillo">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -6363,7 +6363,7 @@
         <viz:position x="3169.6907" y="3493.8015" z="0.0"></viz:position>
         <viz:color r="6" g="120" b="249"></viz:color>
       </node>
-      <node id="459" label="Mayri ParreÃƒÂ±o">
+      <node id="459" label="Mayri Parreño">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -6388,7 +6388,7 @@
         <viz:position x="942.964" y="1941.5767" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="460" label="Juan Carlos Alvarez">
+      <node id="460" label="Juan Alvarez">
         <attvalues>
           <attvalue for="group" value="Red Andrea"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -6413,7 +6413,7 @@
         <viz:position x="1659.7712" y="200.36809" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="461" label="Carmita Susana PatiÃƒÂ±o">
+      <node id="461" label="Carmita Susana">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -6438,7 +6438,7 @@
         <viz:position x="905.2555" y="1131.2228" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="462" label="Dalila Andrade M.">
+      <node id="462" label="Dalila Andrade">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -6488,7 +6488,7 @@
         <viz:position x="1271.604" y="765.8628" z="0.0"></viz:position>
         <viz:color r="13" g="163" b="0"></viz:color>
       </node>
-      <node id="465" label="UniÃƒÂ³n Misionera De Machala">
+      <node id="465" label="Union Misionera De Machala">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="13"></attvalue>
@@ -6613,7 +6613,7 @@
         <viz:position x="-1744.3478" y="-1406.9978" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="470" label="Lorenita ChÃƒÂ¡vez">
+      <node id="470" label="Lorenita Chavez">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -6863,7 +6863,7 @@
         <viz:position x="-2176.7485" y="-476.03665" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="482" label="Pame PavÃƒÂ³n Quevedo">
+      <node id="482" label="Pame Pavon">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="6"></attvalue>
@@ -6988,7 +6988,7 @@
         <viz:position x="2044.4929" y="-1323.5679" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="487" label="Hitalo Coello Ortega">
+      <node id="487" label="Hitalo Coello ">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -7163,7 +7163,7 @@
         <viz:position x="2429.2952" y="-1029.0983" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="135"></viz:color>
       </node>
-      <node id="495" label="Yajaira VillamarÃƒÂ­n">
+      <node id="495" label="Yajaira Villamarin">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="25"></attvalue>
@@ -7213,7 +7213,7 @@
         <viz:position x="-2570.133" y="618.9921" z="0.0"></viz:position>
         <viz:color r="192" g="6" b="249"></viz:color>
       </node>
-      <node id="497" label="Iglesia BÃƒÂ­blica RestauraciÃƒÂ³n Latacunga">
+      <node id="497" label="Iglesia Biblica Restauracion Latacunga">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -7263,7 +7263,7 @@
         <viz:position x="2042.6162" y="-1053.5199" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="499" label="Eloisa Doraliza Salazar Esquibel">
+      <node id="499" label="Eloisa Salazar">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -7413,7 +7413,7 @@
         <viz:position x="2727.7456" y="2082.434" z="0.0"></viz:position>
         <viz:color r="235" g="6" b="249"></viz:color>
       </node>
-      <node id="507" label="Fausto AndrÃƒÂ©s Villota">
+      <node id="507" label="Fausto Villota">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -7538,7 +7538,7 @@
         <viz:position x="2015.8293" y="-1644.3141" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="514" label="VerÃƒÂ³nica Arcos">
+      <node id="514" label="Veronica Arcos">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -7563,7 +7563,7 @@
         <viz:position x="1345.8612" y="1281.9652" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="515" label="Juan Carlos Garzon Sanchez">
+      <node id="515" label="Juan Garzon">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -7613,7 +7613,7 @@
         <viz:position x="-620.6247" y="-1920.083" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="517" label="Francisco GuayasamÃƒÂ­n">
+      <node id="517" label="Francisco Guayasamin">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -7713,7 +7713,7 @@
         <viz:position x="1589.648" y="-853.7717" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="522" label="Vicentino de CorazÃƒÂ³n">
+      <node id="522" label="Vicentino de Corazon">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -7788,7 +7788,7 @@
         <viz:position x="-594.56323" y="2049.7568" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="525" label="Naty Sandoval PeÃƒÂ±a">
+      <node id="525" label="Naty Sandoval Peña">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -7813,7 +7813,7 @@
         <viz:position x="518.2213" y="-2433.0361" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="526" label="Juan Gabriel Orellana CarreÃƒÂ±o">
+      <node id="526" label="Juan Orellana ">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="5"></attvalue>
@@ -8063,7 +8063,7 @@
         <viz:position x="-969.0956" y="-356.3648" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="215" label="JeremÃƒÂ­as Vaca">
+      <node id="215" label="Jeremias Vaca">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="14"></attvalue>
@@ -8188,7 +8188,7 @@
         <viz:position x="1013.6807" y="-803.64874" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="3" label="Marcelo Reinoso VillamarÃƒÂ­n">
+      <node id="3" label="Marcelo Reinoso ">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -8213,7 +8213,7 @@
         <viz:position x="-449.06454" y="-776.84406" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="23" label="MarÃƒÂ­a Piedad VillamarÃƒÂ­n Viteri">
+      <node id="23" label="Maria Piedad Villamarín">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="40"></attvalue>
@@ -8288,7 +8288,7 @@
         <viz:position x="1700.3494" y="595.95996" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="5" label="Raff SÃƒÂ¡nchez">
+      <node id="5" label="Raff Sanchez">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="10"></attvalue>
@@ -8413,7 +8413,7 @@
         <viz:position x="-1445.1084" y="1581.7421" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="28" label="JosÃƒÂ© Mena">
+      <node id="28" label="Jose Mena">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="9"></attvalue>
@@ -8438,7 +8438,7 @@
         <viz:position x="-1245.1456" y="1673.5068" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="10" label="Nina Sandra Castillo">
+      <node id="10" label="Nina Castillo">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="5"></attvalue>
@@ -8538,7 +8538,7 @@
         <viz:position x="519.7777" y="-368.7619" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="13" label="Gabi GarzÃƒÂ³n">
+      <node id="13" label="Gabi Garzon">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="9"></attvalue>
@@ -8613,7 +8613,7 @@
         <viz:position x="-1002.6515" y="40.14784" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="141" label="Carito LeÃƒÂ³n">
+      <node id="141" label="Carito Leon">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="15"></attvalue>
@@ -8688,7 +8688,7 @@
         <viz:position x="-102.02126" y="-2310.5637" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="17" label="Erika ChacÃƒÂ³n Vivas">
+      <node id="17" label="Erika Chacon">
         <attvalues>
           <attvalue for="group" value="UBA"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -8738,7 +8738,7 @@
         <viz:position x="-2454.523" y="956.0284" z="0.0"></viz:position>
         <viz:color r="192" g="6" b="249"></viz:color>
       </node>
-      <node id="18" label="Veronica Arregui Vera">
+      <node id="18" label="Veronica Arregui">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -8788,7 +8788,7 @@
         <viz:position x="-475.93564" y="1507.3632" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="19" label="Fernando SÃƒÂ¡nchez">
+      <node id="19" label="Fernando Sanchez">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -8838,7 +8838,7 @@
         <viz:position x="-860.0896" y="214.94148" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="20" label="Julio CÃƒÂ©sar Tapia LeÃƒÂ³n">
+      <node id="20" label="Julio Tapia">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -8913,7 +8913,7 @@
         <viz:position x="406.10785" y="1455.3838" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="24" label="Mafer Villamarin GutiÃƒÂ©rrez">
+      <node id="24" label="Mafer Villamarin">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="23"></attvalue>
@@ -8938,7 +8938,7 @@
         <viz:position x="-39.565086" y="371.17157" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="22" label="Yesi MÃƒÂ©ndez">
+      <node id="22" label="Yesi Mendez">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -8963,7 +8963,7 @@
         <viz:position x="135.83174" y="294.6351" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="56" label="Mariela Palma Pacheco">
+      <node id="56" label="Mariela Palma ">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="11"></attvalue>
@@ -9063,7 +9063,7 @@
         <viz:position x="455.4667" y="-1178.2405" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="132" label="ToÃƒÂ±o Mogro Viteri">
+      <node id="132" label="Toño Mogro">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -9263,7 +9263,7 @@
         <viz:position x="-1218.3712" y="-1103.4277" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="70" label="Silvia Yolanda Armas Yanez">
+      <node id="70" label="Silvia Armas ">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="16"></attvalue>
@@ -9338,7 +9338,7 @@
         <viz:position x="-1126.5643" y="1239.4192" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="38" label="Christian GÃƒÂ³mez">
+      <node id="38" label="Christian Gomez">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="5"></attvalue>
@@ -9363,7 +9363,7 @@
         <viz:position x="155.13176" y="-2282.3445" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="67" label="Leyla Iza Sanhueza">
+      <node id="67" label="Leyla Iza ">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -9463,7 +9463,7 @@
         <viz:position x="441.7321" y="798.5057" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="47" label="Maria Ambar Olalla Loor">
+      <node id="47" label="Maria Olalla ">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="20"></attvalue>
@@ -9638,7 +9638,7 @@
         <viz:position x="1481.4648" y="-1897.362" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="52" label="Nelson B. VillamarÃƒÂ­n">
+      <node id="52" label="Nelson B. Villamarin">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="15"></attvalue>
@@ -9913,7 +9913,7 @@
         <viz:position x="1417.3134" y="-1688.3745" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="100" label="Eduardo Mauricio CampaÃƒÂ±a Ortega">
+      <node id="100" label="Eduardo Campaña">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="5"></attvalue>
@@ -9963,7 +9963,7 @@
         <viz:position x="-1668.6731" y="-848.6847" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="93" label="VÃƒÂ­ctor Galo Carrillo">
+      <node id="93" label="Victor Galo">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="15"></attvalue>
@@ -10038,7 +10038,7 @@
         <viz:position x="881.42444" y="-647.6863" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="83" label="David Barba Naranjo">
+      <node id="83" label="David Barba">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -10088,7 +10088,7 @@
         <viz:position x="1258.2054" y="-1118.9926" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="90" label="Wilson TrÃƒÂ¡vez">
+      <node id="90" label="Wilson Travez">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -10113,7 +10113,7 @@
         <viz:position x="582.0567" y="-1661.1967" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="131" label="Espe ExtensiÃƒÂ³n Latacunga">
+      <node id="131" label="Espe Extension Latacunga">
         <attvalues>
           <attvalue for="group" value="PÃƒÂ¡ginas"></attvalue>
           <attvalue for="indegree" value="14"></attvalue>
@@ -10213,7 +10213,7 @@
         <viz:position x="-1672.6624" y="-1149.5803" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="206" label="Mari Carmen Sanchez Grandes">
+      <node id="206" label="Mari Sanchez">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="12"></attvalue>
@@ -10263,7 +10263,7 @@
         <viz:position x="1635.5983" y="1451.9357" z="0.0"></viz:position>
         <viz:color r="235" g="249" b="6"></viz:color>
       </node>
-      <node id="142" label="Diana Diaz AlfÃƒÂ©rez">
+      <node id="142" label="Diana Diaz">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -10338,7 +10338,7 @@
         <viz:position x="123.1889" y="2274.5967" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="108" label="DieguÃƒÂ­n Brito">
+      <node id="108" label="Dieguin Brito">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -10388,7 +10388,7 @@
         <viz:position x="1924.7993" y="457.5701" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="110" label="SofÃƒÂ­a Zambrano LeÃƒÂ³n">
+      <node id="110" label="Sofia Zambrano">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -10463,7 +10463,7 @@
         <viz:position x="-2.8735135" y="-2162.3774" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="121" label="AndrÃƒÂ©s Fernando GarcÃƒÂ­a">
+      <node id="121" label="Andres Fernando">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="14"></attvalue>
@@ -10488,7 +10488,7 @@
         <viz:position x="427.92325" y="-1846.617" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="112" label="Sarah NoÃƒÂ©mie">
+      <node id="112" label="Sarah Noemie">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="15"></attvalue>
@@ -10513,7 +10513,7 @@
         <viz:position x="61.52554" y="1008.0677" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="71" label="Karina Alexandra Ortiz Arregui">
+      <node id="71" label="Karina Ortiz ">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="9"></attvalue>
@@ -10638,7 +10638,7 @@
         <viz:position x="-618.65405" y="605.50726" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="122" label="DarÃƒÂ­o BolaÃƒÂ±os">
+      <node id="122" label="Dario Bolaños">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -10663,7 +10663,7 @@
         <viz:position x="1612.9579" y="-1126.4832" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="221" label="Alexander Sinchiguano Cajas">
+      <node id="221" label="Alexander Sinchiguano">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="10"></attvalue>
@@ -10763,7 +10763,7 @@
         <viz:position x="739.4228" y="1931.679" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="107" label="Ruth Maria Paz Cajamarca">
+      <node id="107" label="Ruth Paz">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="18"></attvalue>
@@ -10788,7 +10788,7 @@
         <viz:position x="133.82164" y="1184.5842" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="153" label="Juan Pablo Navas">
+      <node id="153" label="Juan Navas">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="6"></attvalue>
@@ -10913,7 +10913,7 @@
         <viz:position x="-1672.7389" y="-364.92877" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="163" label="Henry Rene Guillen Sanchez">
+      <node id="163" label="Henry Guillen ">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -10963,7 +10963,7 @@
         <viz:position x="1334.873" y="-1546.1184" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="72" label="May PÃƒÂ©rez">
+      <node id="72" label="May Perez">
         <attvalues>
           <attvalue for="group" value="ESPE"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -10988,7 +10988,7 @@
         <viz:position x="890.89935" y="-2046.2478" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="162" label="Giovanny JimÃƒÂ©nez">
+      <node id="162" label="Giovanny Jimenez">
         <attvalues>
           <attvalue for="group" value="Colegas"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -11138,7 +11138,7 @@
         <viz:position x="1261.9315" y="-1352.8185" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="180" label="Christopher GuzmÃƒÂ¡n">
+      <node id="180" label="Christopher Guzman">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="0"></attvalue>
@@ -11163,7 +11163,7 @@
         <viz:position x="-2625.873" y="388.70273" z="0.0"></viz:position>
         <viz:color r="192" g="6" b="249"></viz:color>
       </node>
-      <node id="287" label="Eduardo RamÃƒÂ­rez">
+      <node id="287" label="Eduardo Ramirez">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -11213,7 +11213,7 @@
         <viz:position x="205.70114" y="959.4304" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="166" label="Xavier Fernando Erazo Guerra">
+      <node id="166" label="Xavier Erazo">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -11238,7 +11238,7 @@
         <viz:position x="862.8059" y="505.10352" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="190" label="Jessica Roxana Lino Vinacha">
+      <node id="190" label="Jessica Lino ">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -11263,7 +11263,7 @@
         <viz:position x="-1326.6682" y="576.29126" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="104" label="Janeth Claros Vasquez">
+      <node id="104" label="Janeth Claros ">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -11388,7 +11388,7 @@
         <viz:position x="-1548.3038" y="-612.8882" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="201" label="Tito VillamarÃƒÂ­n C">
+      <node id="201" label="Tito Villamarin C">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="17"></attvalue>
@@ -11463,7 +11463,7 @@
         <viz:position x="-1139.9559" y="-1952.4202" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="71"></viz:color>
       </node>
-      <node id="234" label="Jessica Maricela Guevara Toalombo">
+      <node id="234" label="Jessica Guevara">
         <attvalues>
           <attvalue for="group" value="Colegas"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -11538,7 +11538,7 @@
         <viz:position x="1021.08685" y="1616.3052" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="285" label="Lia Carolina Fernandez">
+      <node id="285" label="Lia Fernandez">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="2"></attvalue>
@@ -11613,7 +11613,7 @@
         <viz:position x="1441.936" y="-1003.9302" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="360" label="Miguel Maximiliano Alban Pacheco">
+      <node id="360" label="Miguel Alban">
         <attvalues>
           <attvalue for="group" value="Secundaria"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -11663,7 +11663,7 @@
         <viz:position x="385.4789" y="233.45457" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="68" label="Diego Paredes Coloma">
+      <node id="68" label="Diego Paredes ">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -11688,7 +11688,7 @@
         <viz:position x="1465.4423" y="380.88947" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="258" label="Nadia Montesinos de Pedraza">
+      <node id="258" label="Nadia Montesinos ">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="10"></attvalue>
@@ -11763,7 +11763,7 @@
         <viz:position x="-1877.4736" y="-784.33826" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="143" label="HÃƒÂ©ctor Mejia">
+      <node id="143" label="Hector Mejia">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -12213,7 +12213,7 @@
         <viz:position x="1516.9458" y="65.52986" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="85" label="David ChÃƒÂ¡vez">
+      <node id="85" label="David Chavez">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="8"></attvalue>
@@ -12238,7 +12238,7 @@
         <viz:position x="1136.5713" y="357.0896" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="328" label="Irene Bravo Reyes">
+      <node id="328" label="Irene Bravo">
         <attvalues>
           <attvalue for="group" value="Red Andrea"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -12338,7 +12338,7 @@
         <viz:position x="-540.43896" y="-1259.1937" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="356" label="Abigail Veloz Abarca">
+      <node id="356" label="Abigail Veloz">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -12363,7 +12363,7 @@
         <viz:position x="-2406.0269" y="453.93835" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="358" label="Lidia Bastidas Castro">
+      <node id="358" label="Lidia Bastidas">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="6"></attvalue>
@@ -12388,7 +12388,7 @@
         <viz:position x="-2186.522" y="-273.7128" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="364" label="Paola PeÃƒÂ±aherrera">
+      <node id="364" label="Paola Peñaherrera">
         <attvalues>
           <attvalue for="group" value="Mejores Amigos"></attvalue>
           <attvalue for="indegree" value="10"></attvalue>
@@ -12563,7 +12563,7 @@
         <viz:position x="488.61163" y="-482.98227" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="119" label="Carlos Eduardo Orbea">
+      <node id="119" label="Carlos Orbea">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -12613,7 +12613,7 @@
         <viz:position x="-1713.8285" y="-660.3359" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="103" label="Taty Armas Sanchez">
+      <node id="103" label="Taty Armas ">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="3"></attvalue>
@@ -12738,7 +12738,7 @@
         <viz:position x="129.33534" y="-590.8143" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="445" label="Mariagus Salazar Grandes">
+      <node id="445" label="Mariagus Salazar ">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="7"></attvalue>
@@ -12763,7 +12763,7 @@
         <viz:position x="12.924201" y="-954.29767" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="183" label="Gaby NarvÃƒÂ¡ez">
+      <node id="183" label="Gaby Narvaez">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="15"></attvalue>
@@ -12788,7 +12788,7 @@
         <viz:position x="-288.71112" y="305.68643" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="447" label="Diego Ismael Velasco">
+      <node id="447" label="Diego Velasco">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="9"></attvalue>
@@ -12838,7 +12838,7 @@
         <viz:position x="1636.7667" y="-2044.487" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="456" label="Carolina Villamarin Carrera">
+      <node id="456" label="Carolina Villamarin">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="17"></attvalue>
@@ -12888,7 +12888,7 @@
         <viz:position x="-266.12186" y="813.8391" z="0.0"></viz:position>
         <viz:color r="170" g="249" b="6"></viz:color>
       </node>
-      <node id="463" label="Maria Teresa Tapia">
+      <node id="463" label="Maria Tapia">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="20"></attvalue>
@@ -12938,7 +12938,7 @@
         <viz:position x="-1281.8937" y="-1294.6047" z="0.0"></viz:position>
         <viz:color r="249" g="6" b="156"></viz:color>
       </node>
-      <node id="476" label="Vicky Cristina Cando">
+      <node id="476" label="Vicky Cando">
         <attvalues>
           <attvalue for="group" value="Amigos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -12963,7 +12963,7 @@
         <viz:position x="2042.9338" y="-694.6977" z="0.0"></viz:position>
         <viz:color r="165" g="199" b="0"></viz:color>
       </node>
-      <node id="118" label="May NuÃƒÂ±ez">
+      <node id="118" label="May Nuñez">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
@@ -13113,7 +13113,7 @@
         <viz:position x="-598.8397" y="1401.5481" z="0.0"></viz:position>
         <viz:color r="255" g="176" b="143"></viz:color>
       </node>
-      <node id="75" label="Jorge Luis Tigrero Bricio">
+      <node id="75" label="Jorge Tigrero ">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="4"></attvalue>
@@ -13213,7 +13213,7 @@
         <viz:position x="1208.6434" y="105.22317" z="0.0"></viz:position>
         <viz:color r="85" g="6" b="249"></viz:color>
       </node>
-      <node id="405" label="Andrea GutiÃƒÅ¾rrez Reinoso">
+      <node id="405" label="Andrea Gutierrez ">
         <attvalues>
           <attvalue for="group" value="Familia"></attvalue>
           <attvalue for="indegree" value="14"></attvalue>
@@ -13263,7 +13263,7 @@
         <viz:position x="277.08105" y="-1811.3702" z="0.0"></viz:position>
         <viz:color r="102" g="209" b="255"></viz:color>
       </node>
-      <node id="64" label="Junior OÃƒÂ±a OrdoÃƒÂ±ez">
+      <node id="64" label="Junior Oña">
         <attvalues>
           <attvalue for="group" value="Conocidos"></attvalue>
           <attvalue for="indegree" value="1"></attvalue>
