@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.node {
+  font: 300 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  fill: #bbb;
+}
+
+.node:hover {
+  fill: #000;
+}
+
+.link {
+  stroke: steelblue;
+  stroke-opacity: .4;
+  fill: none;
+  pointer-events: none;
+}
+
+.node:hover,
+.node--source,
+.node--target {
+  font-weight: 700;
+}
+
+.node--source {
+  fill: #2ca02c;
+}
+
+.node--target {
+  fill: #d62728;
+}
+
+.link--source,
+.link--target {
+  stroke-opacity: 1;
+  stroke-width: 2px;
+}
+
+.link--source {
+  stroke: #d62728;
+}
+
+.link--target {
+  /*stroke: #2ca02c;*/
+  stroke: #d62728;
+}
+
+.iz{
+	float: left;
+	height: 700px;
+	width: 60%;
+	background: #fff;
+}
+.der{
+	border-left: 1px solid;
+	float: right;
+	height: 650px;
+	width: 39%;
+	background: #fff;
+	overflow-y: scroll;
+	padding-left: 10px;
+}
+ul {
+	list-style-type: none;
+	padding: 0px;
+}
+ul li{
+	float: left;
+	width: 100%;
+}
+img{
+	float: left;
+	width: 40px;
+	height: 40px;
+}
+
+h1.nombre1{
+	float: left;
+	font-family: verdana;
+	font-size: 16px;
+
+}
+
+h1.nombre2{
+	float: left;
+	font-family: verdana ;
+	font-size: 12px;
+}
+
+h2{
+	font-family: verdana ;
+	font-size: 12px;
+}
+
+.nodo{
+	height: 40px;
+	width: 100%;
+}
+.nodo2{
+	height: 40px;
+	width: 100%;
+}
+h1 {
+	font-family: verdana ;
+	font-size: 16px;
+}
+h2 {
+	font-family: verdana ;
+	font-size: 12px;
+}
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<header>
+	<h1>Amigos comunes entre mis contactos de Facebook</h2>
+</header>
+<div>
+	<div id="izquierda" class="iz">
+	</div>
+	<div id="derecha" class="der">
+		<div id="nodo" class="nodo">
+			<div class="foto">
+			<img  class="foto" src="" />
+			</div>
+			<div class="texto">
+			<h1 class="nombre1">Click en un nombre.</h1>
+			</div>
+
+		</div>
+		<div style="float: left; width: 100%">
+			<h2>Amigos en común</h2>
+		</div>
+		<ul>
+			<li><div id="amigos" class="amigos">
+
+					<div class="foto">
+					<img  class="foto" src="" />
+					</div>
+					<div class="texto">
+					<h1 class="nombre1"></h1>
+					</div>
+
+				</div>
+			</li>
+			<li><div id="amigos" class="amigos">
+					<div class="foto">
+					<img  class="foto" src="" />
+					</div>
+					<div class="texto">
+					<h1 class="nombre1"></h1>
+					</div>
+				</div>
+			</li>
+
+
+		</ul>
+	</div>
+</div>
+
+<script>
+
+var diameter = 700,
+    radius = diameter / 2,
+    innerRadius = radius - 150;
+
+var cluster = d3.layout.cluster()
+    .size([360, innerRadius])
+    .sort(null)
+    .value(function(d) { return d.size; });
+
+var bundle = d3.layout.bundle();
+
+var line = d3.svg.line.radial()
+    .interpolate("bundle")
+    .tension(.85)
+    .radius(function(d) { return d.y; })
+    .angle(function(d) { return d.x / 180 * Math.PI; });
+
+var svg = d3.select("div#izquierda").append("svg")
+    .attr("width", diameter)
+    .attr("height", diameter)
+  .append("g")
+    .attr("transform", "translate(" + radius + "," + radius + ")");
+
+var link = svg.append("g").selectAll(".link"),
+    node = svg.append("g").selectAll(".node"),
+	image = svg.append("g").selectAll(".img");
+var nodes, links;
+
+d3.json("redpeque.json", function(error, classes) {
+  nodes = cluster.nodes(packageHierarchy(classes));
+  links = packageImports(nodes);
+
+  link = link
+      .data(bundle(links))
+    .enter().append("path")
+      .each(function(d) { d.source = d[0], d.target = d[d.length - 1]; })
+      .attr("class", "link")
+      .attr("d", line);
+
+  node = node
+      .data(nodes.filter(function(n) { return !n.children; }))
+    .enter().append("text")
+      .attr("class", "node")
+      .attr("dy", ".31em")
+      .attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + (d.y + 8) + ",0)" + (d.x < 180 ? "" : "rotate(180)"); })
+      .style("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
+      .text(function(d) { return d.key; })
+      .on("mouseover", mouseovered)
+      .on("mouseout", mouseouted)
+	  .on("click", click);
+
+});
+
+function click(d) {
+	limpiar();
+	crearNodo(d);
+	d.imports.forEach(function(a) {
+		crearNodo2(a, d.name);
+	});
+}
+
+function mouseovered(d) {
+  node
+      .each(function(n) { n.target = n.source = false; });
+
+  link
+      .classed("link--target", function(l) { if (l.target === d) return l.source.source = true; })
+      .classed("link--source", function(l) { if (l.source === d) return l.target.target = true; })
+    .filter(function(l) { return l.target === d || l.source === d; })
+      .each(function() { this.parentNode.appendChild(this); });
+
+  node
+      .classed("node--target", function(n) { return n.target; })
+      .classed("node--source", function(n) { return n.source; });
+}
+
+function mouseouted(d) {
+  link
+      .classed("link--target", false)
+      .classed("link--source", false);
+
+  node
+      .classed("node--target", false)
+      .classed("node--source", false);
+}
+
+d3.select(self.frameElement).style("height", diameter + "px");
+
+// Lazily construct the package hierarchy from class names.
+function packageHierarchy(classes) {
+  var map = {};
+
+  function find(name, data) {
+    var node = map[name], i;
+    if (!node) {
+      node = map[name] = data || {name: name, children: []};
+      if (name.length) {
+        node.parent = find(name.substring(0, i = name.lastIndexOf(".")));
+        node.parent.children.push(node);
+        node.key = name.substring(i + 1);
+      }
+    }
+    return node;
+  }
+
+  classes.forEach(function(d) {
+    find(d.name, d);
+  });
+
+  return map[""];
+}
+
+// Return a list of imports for the given array of nodes.
+function packageImports(nodes) {
+  var map = {},
+      imports = [];
+
+  // Compute a map from name to node.
+  nodes.forEach(function(d) {
+    map[d.name] = d;
+  });
+
+  // For each import, construct a link from the source to target node.
+  nodes.forEach(function(d) {
+    if (d.imports) d.imports.forEach(function(i) {
+      imports.push({source: map[d.name], target: map[i]});
+    });
+  });
+
+  return imports;
+}
+
+
+function limpiar(){
+	d3.selectAll('div#nodo img').remove();
+	d3.selectAll('div#nodo h1').remove();
+	d3.selectAll('li').remove();
+};
+
+
+
+function crearNodo(d){
+	d3.select("div#nodo")
+		.append("img").attr("class", "foto").attr("src", d.image);
+	d3.select("div#nodo")
+		.append("h1").attr("class", "nombre1").html(d.name);
+}
+
+function crearNodo2(a, d){
+	nodes.forEach(function(n) {
+		if (a == n.name && d != n.name){
+			d3.select("ul")
+				.append("li")
+				.html('<div id="nodo2"><img class="foto" src="' + n.image + '" ><h1 class="nombre2">' +n.name+"</h1></div>");
+
+		}
+	});
+}
+//crearNodo();
+
+</script>

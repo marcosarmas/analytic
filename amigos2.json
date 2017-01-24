@@ -1,0 +1,2299 @@
+{
+  "nodes":[
+  {
+    "name":"Nicolay Bonilla",
+    "group":8
+  },
+  {
+    "name":"Conjunto Terranova",
+    "group":9
+  },
+  {
+    "name":"Mauricio Morales",
+    "group":8
+  },
+  {
+    "name":"Marcelo Reinoso VillamarÝn",
+    "group":2
+  },
+  {
+    "name":"Chalito Salazar",
+    "group":4
+  },
+  {
+    "name":"Raff Sßnchez",
+    "group":2
+  },
+  {
+    "name":"Doris Navarrete",
+    "group":8
+  },
+  {
+    "name":"Vero Espinel",
+    "group":6
+  },
+  {
+    "name":"Patico Molina",
+    "group":3
+  },
+  {
+    "name":"Gerald Mendoza",
+    "group":8
+  },
+  {
+    "name":"Nina Sandra Castillo",
+    "group":8
+  },
+  {
+    "name":"David Cestare",
+    "group":8
+  },
+  {
+    "name":"Latacunga Hermosa Ut",
+    "group":9
+  },
+  {
+    "name":"Gabi Garz¾n",
+    "group":1
+  },
+  {
+    "name":"Franklin Espinoza",
+    "group":8
+  },
+  {
+    "name":"Diana Montesinos",
+    "group":1
+  },
+  {
+    "name":"Jorge David",
+    "group":5
+  },
+  {
+    "name":"Erika Chac¾n Vivas",
+    "group":6
+  },
+  {
+    "name":"Veronica Arregui Vera",
+    "group":8
+  },
+  {
+    "name":"Fernando Sßnchez",
+    "group":8
+  },
+  {
+    "name":"Julio CÚsar Tapia Le¾n",
+    "group":8
+  },
+  {
+    "name":"Gabu Buitron",
+    "group":1
+  },
+  {
+    "name":"Yesi MÚndez",
+    "group":1
+  },
+  {
+    "name":"Marýa Piedad Villamarýn Viteri",
+    "group":2
+  },
+  {
+    "name":"Mafer Villamarin GutiÚrrez",
+    "group":2
+  },
+  {
+    "name":"Mafer Carrera",
+    "group":1
+  },
+  {
+    "name":"Benjamin Vilca Villamarin",
+    "group":2
+  },
+  {
+    "name":"Rafael Sanchez",
+    "group":4
+  },
+  {
+    "name":"JosÚ Mena",
+    "group":8
+  },
+  {
+    "name":"Elizabeth Villa",
+    "group":5
+  },
+  {
+    "name":"Syrah Resto-bar",
+    "group":9
+  },
+  {
+    "name":"Sebastian Carrera",
+    "group":1
+  },
+  {
+    "name":"Peter Caryn Hasbrouck",
+    "group":8
+  },
+  {
+    "name":"Dume Aiume",
+    "group":9
+  },
+  {
+    "name":"Cesar Veloz",
+    "group":2
+  },
+  {
+    "name":"Eduardo Carrillo",
+    "group":2
+  },
+  {
+    "name":"Iglesia Ume de Cuenca",
+    "group":9
+  },
+  {
+    "name":"Valeria Santillßn",
+    "group":9
+  },
+  {
+    "name":"Christian G¾mez",
+    "group":5
+  },
+  {
+    "name":"Mariuxi Mora",
+    "group":8
+  },
+  {
+    "name":"Estefania Buitron",
+    "group":8
+  },
+  {
+    "name":"Marco Jaramillo",
+    "group":5
+  },
+  {
+    "name":"Hilda Cordova",
+    "group":1
+  },
+  {
+    "name":"Tilita Almeida Custode",
+    "group":8
+  },
+  {
+    "name":"Samuel Quila",
+    "group":8
+  },
+  {
+    "name":"Cristhian Flores",
+    "group":5
+  },
+  {
+    "name":"Daniel Flores",
+    "group":1
+  },
+  {
+    "name":"Maria Ambar Olalla Loor",
+    "group":8
+  },
+  {
+    "name":"Javier Chamorro",
+    "group":5
+  },
+  {
+    "name":"Fabian Vargas",
+    "group":5
+  },
+  {
+    "name":"Irene Quillupangui",
+    "group":5
+  },
+  {
+    "name":"Maye Tapia",
+    "group":8
+  },
+  {
+    "name":"Nelson B. VillamarÝn",
+    "group":2
+  },
+  {
+    "name":"Zonacustik Rock",
+    "group":9
+  },
+  {
+    "name":"Daysi Paola",
+    "group":1
+  },
+  {
+    "name":"Willer Leticia Montesinos",
+    "group":1
+  },
+  {
+    "name":"Mariela Palma Pacheco",
+    "group":8
+  },
+  {
+    "name":"Kti Villamarin",
+    "group":2
+  },
+  {
+    "name":"Joseluu Every Where",
+    "group":1
+  },
+  {
+    "name":"Jenny Villamarin",
+    "group":2
+  },
+  {
+    "name":"Amparito Alegria",
+    "group":1
+  },
+  {
+    "name":"Ely Samaniego",
+    "group":1
+  },
+  {
+    "name":"Aracely Galarza",
+    "group":1
+  },
+  {
+    "name":"Eric W. Briones Olsen",
+    "group":2
+  },
+  {
+    "name":"Junior O±a Ordo±ez",
+    "group":8
+  },
+  {
+    "name":"Diego Segovia",
+    "group":8
+  },
+  {
+    "name":"Alexandra Espinoza",
+    "group":8
+  },
+  {
+    "name":"Leyla Iza Sanhueza",
+    "group":5
+  },
+  {
+    "name":"Diego Paredes Coloma",
+    "group":8
+  },
+  {
+    "name":"Abraham Sandoval",
+    "group":8
+  },
+  {
+    "name":"Silvia Yolanda Armas Yanez",
+    "group":2
+  },
+  {
+    "name":"Karina Alexandra Ortiz Arregui",
+    "group":1
+  },
+  {
+    "name":"May PÚrez",
+    "group":5
+  },
+  {
+    "name":"Alex Balladares Rubio",
+    "group":4
+  },
+  {
+    "name":"Majito Velasquez Bricio",
+    "group":8
+  },
+  {
+    "name":"Jorge Luis Tigrero Bricio",
+    "group":8
+  },
+  {
+    "name":"Edgar OT",
+    "group":1
+  },
+  {
+    "name":"Sonia Mßrquez",
+    "group":5
+  },
+  {
+    "name":"Andre Alvarez",
+    "group":11
+  },
+  {
+    "name":"Cristian Veloz",
+    "group":2
+  },
+  {
+    "name":"Steffy Tapia",
+    "group":1
+  },
+  {
+    "name":"Maria Nieto",
+    "group":2
+  },
+  {
+    "name":"David Arcos",
+    "group":1
+  },
+  {
+    "name":"David Barba Naranjo",
+    "group":1
+  },
+  {
+    "name":"Barb· Gorila",
+    "group":9
+  },
+  {
+    "name":"David Chßvez",
+    "group":8
+  },
+  {
+    "name":"Mena Aguilera",
+    "group":8
+  },
+  {
+    "name":"David Hasbrouck",
+    "group":8
+  },
+  {
+    "name":"Souri Clinica Dental",
+    "group":9
+  },
+  {
+    "name":"Renato Daniel Mi±o Rosales",
+    "group":8
+  },
+  {
+    "name":"Wilson Trßvez",
+    "group":8
+  },
+  {
+    "name":"Jairo Mena Guzman",
+    "group":8
+  },
+  {
+    "name":"Jonathan Tigrero",
+    "group":8
+  },
+  {
+    "name":"VÝctor Galo Carrillo",
+    "group":2
+  },
+  {
+    "name":"Santiago EspÝn G¾mez",
+    "group":4
+  },
+  {
+    "name":"Alvaro Yanez L",
+    "group":2
+  },
+  {
+    "name":"?????? ?????",
+    "group":10
+  },
+  {
+    "name":"Pablo Perri",
+    "group":7
+  },
+  {
+    "name":"Kristen Uquillas",
+    "group":2
+  },
+  {
+    "name":"Xime Mora",
+    "group":1
+  },
+  {
+    "name":"Eduardo Mauricio Campa±a Ortega",
+    "group":8
+  },
+  {
+    "name":"Cristina Hunter",
+    "group":1
+  },
+  {
+    "name":"Memo Benitez",
+    "group":1
+  },
+  {
+    "name":"Taty Armas Sanchez",
+    "group":2
+  },
+  {
+    "name":"Janeth Claros Vasquez",
+    "group":8
+  },
+  {
+    "name":"Igualito Al Taita",
+    "group":9
+  },
+  {
+    "name":"Tere Brive",
+    "group":8
+  },
+  {
+    "name":"Ruth Maria Paz Cajamarca",
+    "group":8
+  },
+  {
+    "name":"DieguÝn Brito",
+    "group":4
+  },
+  {
+    "name":"Jenny Montoya",
+    "group":8
+  },
+  {
+    "name":"SofÝa Zambrano Le¾n",
+    "group":5
+  },
+  {
+    "name":"Paula Freire",
+    "group":5
+  },
+  {
+    "name":"Sarah NoÚmie",
+    "group":1
+  },
+  {
+    "name":"Carlos Armas",
+    "group":2
+  },
+  {
+    "name":"Israel Montesinos",
+    "group":1
+  },
+  {
+    "name":"Rebeca Quiroz",
+    "group":1
+  },
+  {
+    "name":"Francisco Morillo",
+    "group":7
+  },
+  {
+    "name":"Elementor Vaca",
+    "group":2
+  },
+  {
+    "name":"May Nu±ez",
+    "group":8
+  },
+  {
+    "name":"Carlos Eduardo Orbea",
+    "group":8
+  },
+  {
+    "name":"Juan Caguana",
+    "group":8
+  },
+  {
+    "name":"AndrÚs Fernando GarcÝa",
+    "group":5
+  },
+  {
+    "name":"DarÝo Bola±os",
+    "group":5
+  },
+  {
+    "name":"Junior Bonilla",
+    "group":4
+  },
+  {
+    "name":"Daniel Rugel",
+    "group":1
+  },
+  {
+    "name":"Jose Caiza",
+    "group":5
+  },
+  {
+    "name":"Ana LucÝa Buitr¾n Almeida",
+    "group":8
+  },
+  {
+    "name":"MarÝa Hipatia Reinoso VillamarÝn",
+    "group":2
+  },
+  {
+    "name":"Jacqueline Suarez Tamayo",
+    "group":8
+  },
+  {
+    "name":"Rous Fdez",
+    "group":8
+  },
+  {
+    "name":"DaNiela Lopez",
+    "group":1
+  },
+  {
+    "name":"Espe Extensi¾n Latacunga",
+    "group":9
+  },
+  {
+    "name":"To±o Mogro Viteri",
+    "group":4
+  },
+  {
+    "name":"Francisco RenÞ Alarc=n Bertin",
+    "group":8
+  },
+  {
+    "name":"Keila Torres",
+    "group":8
+  },
+  {
+    "name":"Patricio Reyes",
+    "group":8
+  },
+  {
+    "name":"Julia Real",
+    "group":1
+  },
+  {
+    "name":"Geomara Lisett RodrÝguez",
+    "group":8
+  },
+  {
+    "name":"Diego Moscoso",
+    "group":8
+  },
+  {
+    "name":"Ðan Ðan Ðan",
+    "group":8
+  },
+  {
+    "name":"Valery Amores",
+    "group":1
+  },
+  {
+    "name":"Carito Le¾n",
+    "group":1
+  },
+  {
+    "name":"Diana Diaz AlfÚrez",
+    "group":1
+  },
+  {
+    "name":"HÚctor Mejia",
+    "group":2
+  },
+  {
+    "name":"Escuela Semillas Vida",
+    "group":9
+  },
+  {
+    "name":"Estefy Bustos",
+    "group":8
+  },
+  {
+    "name":"Diego Sanchez",
+    "group":2
+  },
+  {
+    "name":"Oansa Ume Machala",
+    "group":9
+  },
+  {
+    "name":"Diego Pule",
+    "group":5
+  },
+  {
+    "name":"Monika Mirela",
+    "group":5
+  },
+  {
+    "name":"Gloria Maria Valverde Montero",
+    "group":8
+  },
+  {
+    "name":"Sandy Pazmi±o",
+    "group":8
+  },
+  {
+    "name":"Sole Herrera",
+    "group":8
+  },
+  {
+    "name":"Juan Pablo Navas",
+    "group":5
+  },
+  {
+    "name":"Jennifer Hunter",
+    "group":1
+  },
+  {
+    "name":"Familia Nieto Armas",
+    "group":2
+  },
+  {
+    "name":"Fanny Roca",
+    "group":1
+  },
+  {
+    "name":"Patricio Vivero",
+    "group":8
+  },
+  {
+    "name":"Caba±as Bariloche Villa Arelauquen",
+    "group":9
+  },
+  {
+    "name":"Katy Molina",
+    "group":8
+  },
+  {
+    "name":"Alison Carrera",
+    "group":7
+  },
+  {
+    "name":"Cristobal Gomez",
+    "group":5
+  },
+  {
+    "name":"Giovanny JimÚnez",
+    "group":7
+  },
+  {
+    "name":"Henry Rene Guillen Sanchez",
+    "group":2
+  },
+  {
+    "name":"Robert Gallegos",
+    "group":2
+  },
+  {
+    "name":"Emma Bell",
+    "group":8
+  },
+  {
+    "name":"Xavier Fernando Erazo Guerra",
+    "group":8
+  },
+  {
+    "name":"Alys Reyes",
+    "group":7
+  },
+  {
+    "name":"Michu Barrionuevo MarÝn",
+    "group":8
+  },
+  {
+    "name":"Paola Zambrano",
+    "group":8
+  },
+  {
+    "name":"Ana Maria Guzman Rojas",
+    "group":8
+  },
+  {
+    "name":"Eri Batallas",
+    "group":1
+  },
+  {
+    "name":"Delta Seguridad",
+    "group":9
+  },
+  {
+    "name":"Belen Teran",
+    "group":1
+  },
+  {
+    "name":"Cristian Rodrigo Molina Quinteros",
+    "group":4
+  },
+  {
+    "name":"Pablo Reyes",
+    "group":8
+  },
+  {
+    "name":"Juan Carlos Tobar Tovar",
+    "group":4
+  },
+  {
+    "name":"Pauly Batallas",
+    "group":1
+  },
+  {
+    "name":"Paito Pao",
+    "group":1
+  },
+  {
+    "name":"Patricia Luque Madrid",
+    "group":8
+  },
+  {
+    "name":"Christopher Guzmßn",
+    "group":8
+  },
+  {
+    "name":"Fausto Armendariz",
+    "group":5
+  },
+  {
+    "name":"Xime Medi",
+    "group":8
+  },
+  {
+    "name":"Gaby Narvßez",
+    "group":1
+  },
+  {
+    "name":"Pame Arcos",
+    "group":1
+  },
+  {
+    "name":"Maru Tovar",
+    "group":8
+  },
+  {
+    "name":"Elizabeth Veloz",
+    "group":2
+  },
+  {
+    "name":"Patr¾n Vicente Le¾n Latacunga",
+    "group":9
+  },
+  {
+    "name":"Sofia Hidalgo",
+    "group":1
+  },
+  {
+    "name":"Evelyn Pamela Baez Parra",
+    "group":5
+  },
+  {
+    "name":"Jessica Roxana Lino Vinacha",
+    "group":8
+  },
+  {
+    "name":"Ver¾nica Luzuriaga de PÚrez",
+    "group":8
+  },
+  {
+    "name":"Pototo Tux",
+    "group":2
+  },
+  {
+    "name":"Mercedes Mejia Araque",
+    "group":8
+  },
+  {
+    "name":"Kimberly Berkhout",
+    "group":8
+  },
+  {
+    "name":"Sandy Linda",
+    "group":5
+  },
+  {
+    "name":"Dulce Bouquet",
+    "group":9
+  },
+  {
+    "name":"Luis Andino Torres",
+    "group":8
+  },
+  {
+    "name":"Raul A. Guerrero",
+    "group":2
+  },
+  {
+    "name":"Alvaro Jacome",
+    "group":8
+  },
+  {
+    "name":"Gis Palma Pacheco",
+    "group":8
+  },
+  {
+    "name":"Tito VillamarÝn C",
+    "group":2
+  },
+  {
+    "name":"Johanna Jimenez",
+    "group":5
+  },
+  {
+    "name":"Julissa Feijoo",
+    "group":8
+  },
+  {
+    "name":"Laura Ajila",
+    "group":8
+  },
+  {
+    "name":"Rebek Tigrero",
+    "group":8
+  },
+  {
+    "name":"Mari Carmen Sanchez Grandes",
+    "group":2
+  },
+  {
+    "name":"Naomi Gill",
+    "group":8
+  },
+  {
+    "name":"Laura Maldonado",
+    "group":2
+  },
+  {
+    "name":"Jose Manuel Mieles Mora",
+    "group":7
+  },
+  {
+    "name":"Mercy Salas",
+    "group":8
+  },
+  {
+    "name":"Veterinaria Paraiso DE Las Mascotas",
+    "group":9
+  },
+  {
+    "name":"J David Vallejo B",
+    "group":4
+  },
+  {
+    "name":"Felix Torres",
+    "group":1
+  },
+  {
+    "name":"Andres Guerrero",
+    "group":1
+  },
+  {
+    "name":"Jeremýas Vaca",
+    "group":2
+  },
+  {
+    "name":"Rocio Zapata B",
+    "group":2
+  },
+  {
+    "name":"NÚstor Herrera Cßrdenas",
+    "group":4
+  },
+  {
+    "name":"Magui Espinosa",
+    "group":1
+  },
+  {
+    "name":"Gianina Castillo",
+    "group":8
+  },
+  {
+    "name":"Pam Mera",
+    "group":8
+  },
+  {
+    "name":"Alexander Sinchiguano Cajas",
+    "group":5
+  },
+  {
+    "name":"Fabian Quimiz Bravo",
+    "group":5
+  },
+  {
+    "name":"Cris Berrazueta",
+    "group":5
+  },
+  {
+    "name":"Veronica Zapata",
+    "group":1
+  },
+  {
+    "name":"Josue Quiroz",
+    "group":1
+  },
+  {
+    "name":"Nicolet Fabara MK",
+    "group":8
+  },
+  {
+    "name":"Sonnia Riera",
+    "group":8
+  },
+  {
+    "name":"Tere Alarcon",
+    "group":7
+  },
+  {
+    "name":"Emilio Bustos",
+    "group":8
+  },
+  {
+    "name":"Jose Luis Carrillo Medina",
+    "group":5
+  },
+  {
+    "name":"Buon Giorno",
+    "group":9
+  },
+  {
+    "name":"Vicentinos Corazon",
+    "group":9
+  },
+  {
+    "name":"Geovi Ortiz Arregui",
+    "group":1
+  },
+  {
+    "name":"Jessica Maricela Guevara Toalombo",
+    "group":7
+  },
+  {
+    "name":"Municipio Latacunga Gobierno",
+    "group":9
+  },
+  {
+    "name":"Santy Paredes",
+    "group":5
+  },
+  {
+    "name":"Juan Alberto Coello Suarez",
+    "group":8
+  },
+  {
+    "name":"Alexandra Heredia",
+    "group":8
+  },
+  {
+    "name":"Gabriela Claudio Guerrero",
+    "group":8
+  },
+  {
+    "name":"Edison Mera Arias",
+    "group":8
+  },
+  {
+    "name":"Stephanie Lanusse",
+    "group":1
+  },
+  {
+    "name":"Any Liz Mejia",
+    "group":1
+  },
+  {
+    "name":"Miguel Tovar",
+    "group":4
+  },
+  {
+    "name":"Cristhian Mauricio",
+    "group":4
+  },
+  {
+    "name":"Aiume Ecuador",
+    "group":9
+  },
+  {
+    "name":"Luis Carrera",
+    "group":5
+  },
+  {
+    "name":"Demencia Azul Roja",
+    "group":9
+  },
+  {
+    "name":"Francisko Lomas",
+    "group":1
+  },
+  {
+    "name":"Olguita Villamarin",
+    "group":2
+  },
+  {
+    "name":"Mony Villamarin",
+    "group":2
+  },
+  {
+    "name":"Oscar Vargas Castillo",
+    "group":4
+  },
+  {
+    "name":"Mateo Rugel",
+    "group":1
+  },
+  {
+    "name":"Criss Riofrio",
+    "group":1
+  },
+  {
+    "name":"Ivan Vaca",
+    "group":1
+  },
+  {
+    "name":"Paola Saenz",
+    "group":1
+  },
+  {
+    "name":"Abel Arturo Buitron Almeida",
+    "group":8
+  },
+  {
+    "name":"Rosita Yarleque de Sanchez",
+    "group":8
+  },
+  {
+    "name":"Nadia Montesinos de Pedraza",
+    "group":1
+  },
+  {
+    "name":"May Robalino",
+    "group":5
+  },
+  {
+    "name":"Javier Segovia",
+    "group":8
+  },
+  {
+    "name":"Orlando Ayala T",
+    "group":5
+  },
+  {
+    "name":"Elixir Spa",
+    "group":9
+  },
+  {
+    "name":"Pamela Tapia",
+    "group":2
+  },
+  {
+    "name":"Pato Armas",
+    "group":2
+  },
+  {
+    "name":"Floyd E Dauber",
+    "group":1
+  },
+  {
+    "name":"Margarita Genoveva Sanchez Yanez",
+    "group":2
+  },
+  {
+    "name":"Liu Fuzi",
+    "group":8
+  },
+  {
+    "name":"Ruben Dario Grandes",
+    "group":4
+  },
+  {
+    "name":"Erika Conde",
+    "group":2
+  },
+  {
+    "name":"Daya Acosta",
+    "group":3
+  },
+  {
+    "name":"Miguel Alejandro",
+    "group":1
+  },
+  {
+    "name":"Silvia Susana Buitron Almeida",
+    "group":8
+  },
+  {
+    "name":"Marcelo Saenz",
+    "group":8
+  },
+  {
+    "name":"Npi Tu Zona",
+    "group":9
+  },
+  {
+    "name":"Juan Carlos Larrea Naranjo",
+    "group":8
+  },
+  {
+    "name":"Miquel Villalobos",
+    "group":8
+  },
+  {
+    "name":"Diana Velasco",
+    "group":5
+  },
+  {
+    "name":"Wilson Antonio Paccha",
+    "group":8
+  },
+  {
+    "name":"Abel Alonso",
+    "group":8
+  },
+  {
+    "name":"Carolina Zurita Cadena",
+    "group":1
+  },
+  {
+    "name":"Camilo Esteban Parra Olalla",
+    "group":8
+  },
+  {
+    "name":"Santiago Heredia Riera",
+    "group":1
+  },
+  {
+    "name":"Luis Jaramillo",
+    "group":8
+  },
+  {
+    "name":"Cristian Alvarez Mena",
+    "group":4
+  },
+  {
+    "name":"Lia Carolina Fernandez",
+    "group":1
+  },
+  {
+    "name":"Fabian Ortiz",
+    "group":1
+  },
+  {
+    "name":"Eduardo RamÝrez",
+    "group":8
+  },
+  {
+    "name":"Edison Caiza",
+    "group":4
+  },
+  {
+    "name":"Peleg Manuel Castillo Hidalgo",
+    "group":8
+  },
+  {
+    "name":"Damaris Abigail",
+    "group":1
+  },
+  {
+    "name":"Eliseo Salazar ValdÚs",
+    "group":8
+  },
+  {
+    "name":"Paula Pazmi±o de Oliva",
+    "group":8
+  },
+  {
+    "name":"Delia Balaoi",
+    "group":6
+  },
+  {
+    "name":"Camila Armas",
+    "group":2
+  },
+  {
+    "name":"Mayra Villamarin",
+    "group":2
+  },
+  {
+    "name":"Jorge Tigrero Ruiz",
+    "group":8
+  },
+  {
+    "name":"AndrÚs Olalla",
+    "group":1
+  },
+  {
+    "name":"Gioconda Herrera",
+    "group":3
+  },
+  {
+    "name":"Numismatic Ecuador",
+    "group":9
+  },
+  {
+    "name":"Galo Salazar Espinoza",
+    "group":4
+  },
+  {
+    "name":"Maria Elena Armas",
+    "group":2
+  },
+  {
+    "name":"Diana Castillo",
+    "group":8
+  },
+  {
+    "name":"Susy Olalla",
+    "group":1
+  },
+  {
+    "name":"Janeth Segovia",
+    "group":8
+  },
+  {
+    "name":"Omar Chamorro",
+    "group":7
+  },
+  {
+    "name":"Jorge Rosales",
+    "group":1
+  },
+  {
+    "name":"Gustavo Tapia",
+    "group":2
+  },
+  {
+    "name":"Nancy Jeanneth Simba±a Basantes",
+    "group":1
+  },
+  {
+    "name":"Cinthia Duque",
+    "group":8
+  },
+  {
+    "name":"Pame Espinoza",
+    "group":8
+  },
+  {
+    "name":"Melissa Elizabeth Ortiz P",
+    "group":8
+  },
+  {
+    "name":"Pepe Quiroz",
+    "group":8
+  },
+  {
+    "name":"Francisco San Lucas",
+    "group":8
+  },
+  {
+    "name":"Juan Carlos Parre±o",
+    "group":8
+  },
+  {
+    "name":"Lucrecia Paz",
+    "group":1
+  },
+  {
+    "name":"Doris Tapia Armas",
+    "group":2
+  },
+  {
+    "name":"Dario Calder¾n Sußrez",
+    "group":5
+  },
+  {
+    "name":"Teresa Bricio",
+    "group":8
+  },
+  {
+    "name":"Stefany Riofrio",
+    "group":1
+  },
+  {
+    "name":"Santiago Ayala Teran",
+    "group":2
+  },
+  {
+    "name":"Carlos Torres Fonseca",
+    "group":1
+  },
+  {
+    "name":"VÝctor PÚrez",
+    "group":2
+  },
+  {
+    "name":"Victor Eduardo Carrillo",
+    "group":2
+  },
+  {
+    "name":"David Alvarez",
+    "group":3
+  },
+  {
+    "name":"Gardu Perez",
+    "group":8
+  },
+  {
+    "name":"Cristina Narvßez",
+    "group":2
+  },
+  {
+    "name":"Carmen Guaman Vega",
+    "group":1
+  },
+  {
+    "name":"Irene Bravo Reyes",
+    "group":3
+  },
+  {
+    "name":"Wilma Zambrano",
+    "group":2
+  },
+  {
+    "name":"Angel Ca±ar",
+    "group":5
+  },
+  {
+    "name":"Pao Villamarin",
+    "group":2
+  },
+  {
+    "name":"Juan Carlos Velasquez Baquedano",
+    "group":8
+  },
+  {
+    "name":"Arturo Tapia",
+    "group":2
+  },
+  {
+    "name":"Ruth Estella Dauber",
+    "group":1
+  },
+  {
+    "name":"Tefa Lrs",
+    "group":8
+  },
+  {
+    "name":"Roger Jaimes H",
+    "group":5
+  },
+  {
+    "name":"Decc Espe",
+    "group":9
+  },
+  {
+    "name":"Leo Guevara",
+    "group":4
+  },
+  {
+    "name":"Fernando Jacome Karolys",
+    "group":1
+  },
+  {
+    "name":"Brigith Reinoso",
+    "group":8
+  },
+  {
+    "name":"Ysabel Any Diaz",
+    "group":1
+  },
+  {
+    "name":"Victor Venegas",
+    "group":4
+  },
+  {
+    "name":"Paulo Racines",
+    "group":4
+  },
+  {
+    "name":"Jaquelin Paz",
+    "group":8
+  },
+  {
+    "name":"Rugel Washington",
+    "group":8
+  },
+  {
+    "name":"E-Ciencia Espe",
+    "group":9
+  },
+  {
+    "name":"Paul Cede±o",
+    "group":5
+  },
+  {
+    "name":"Jose Ramirez",
+    "group":1
+  },
+  {
+    "name":"Gabby Rivadeneira",
+    "group":1
+  },
+  {
+    "name":"AmÚrica Armas",
+    "group":2
+  },
+  {
+    "name":"Andres Maruri",
+    "group":4
+  },
+  {
+    "name":"Franco Ordo±ez Leon",
+    "group":5
+  },
+  {
+    "name":"Carla Jimenez",
+    "group":5
+  },
+  {
+    "name":"Juan Carlos Jimenez Velez",
+    "group":5
+  },
+  {
+    "name":"Juan Panchi Cajas",
+    "group":4
+  },
+  {
+    "name":"Abigail Veloz Abarca",
+    "group":8
+  },
+  {
+    "name":"HR Blue Patagon",
+    "group":9
+  },
+  {
+    "name":"Lidia Bastidas Castro",
+    "group":2
+  },
+  {
+    "name":"Cristian Fabißn SantamarÝa Paez",
+    "group":5
+  },
+  {
+    "name":"Miguel Maximiliano Alban Pacheco",
+    "group":4
+  },
+  {
+    "name":"David Killy",
+    "group":1
+  },
+  {
+    "name":"Pao Morales",
+    "group":1
+  },
+  {
+    "name":"Mateo Rugel",
+    "group":1
+  },
+  {
+    "name":"Paola Pe±aherrera",
+    "group":1
+  },
+  {
+    "name":"Isabel Carrera",
+    "group":2
+  },
+  {
+    "name":"VizcaÝno Hernan",
+    "group":8
+  },
+  {
+    "name":"Viviana Jimbo",
+    "group":8
+  },
+  {
+    "name":"Daniela Jacome",
+    "group":2
+  },
+  {
+    "name":"Rita Maldonado",
+    "group":1
+  },
+  {
+    "name":"Gonzalo de la Vega",
+    "group":7
+  },
+  {
+    "name":"Ra·l Rosero Miranda",
+    "group":5
+  },
+  {
+    "name":"Belgica Ibarra Quiroz",
+    "group":7
+  },
+  {
+    "name":"Violeta Perero",
+    "group":1
+  },
+  {
+    "name":"Fausto Gamboa",
+    "group":8
+  },
+  {
+    "name":"Patricia Vasquez Duarte",
+    "group":8
+  },
+  {
+    "name":"Ali Alicia",
+    "group":8
+  },
+  {
+    "name":"Aracely Zapata",
+    "group":8
+  },
+  {
+    "name":"Carito-Andre Lomas",
+    "group":1
+  },
+  {
+    "name":"Alfredo Xavier Torres Pozo",
+    "group":2
+  },
+  {
+    "name":"Josias Vaca",
+    "group":2
+  },
+  {
+    "name":"Pablo Bustillos",
+    "group":8
+  },
+  {
+    "name":"Doris Villamarin",
+    "group":2
+  },
+  {
+    "name":"Gabriel Cerda Sanchez",
+    "group":4
+  },
+  {
+    "name":"Jorge Banderas RodrÝguez",
+    "group":8
+  },
+  {
+    "name":"Vinicio Romero",
+    "group":4
+  },
+  {
+    "name":"Jadira Garcia",
+    "group":8
+  },
+  {
+    "name":"Ariel Caguana",
+    "group":1
+  },
+  {
+    "name":"Silvia Silva",
+    "group":8
+  },
+  {
+    "name":"Freddy Orbea",
+    "group":8
+  },
+  {
+    "name":"Kenton Rowe",
+    "group":8
+  },
+  {
+    "name":"Katty Carrera",
+    "group":1
+  },
+  {
+    "name":"Sarita Lozano Samaniego",
+    "group":8
+  },
+  {
+    "name":"Tim Dauber",
+    "group":1
+  },
+  {
+    "name":"Jen Maza",
+    "group":8
+  },
+  {
+    "name":"Hiv Proa±o",
+    "group":5
+  },
+  {
+    "name":"Celia Lanusse",
+    "group":1
+  },
+  {
+    "name":"Jorge Uquillas",
+    "group":2
+  },
+  {
+    "name":"Juan Pe±aherrera Sandoval",
+    "group":5
+  },
+  {
+    "name":"Dina Mejia",
+    "group":8
+  },
+  {
+    "name":"Carolina Pacheco",
+    "group":8
+  },
+  {
+    "name":"Priscilla Quiroz",
+    "group":1
+  },
+  {
+    "name":"Dianita Bustos",
+    "group":8
+  },
+  {
+    "name":"Ver¾nica de RiofrÝo",
+    "group":1
+  },
+  {
+    "name":"David Paz",
+    "group":1
+  },
+  {
+    "name":"Andrea GutiÞrrez Reinoso",
+    "group":2
+  },
+  {
+    "name":"Ram¾n Asensio",
+    "group":8
+  },
+  {
+    "name":"Carlos Uquillas",
+    "group":2
+  },
+  {
+    "name":"Lore Lo",
+    "group":8
+  },
+  {
+    "name":"Tatiana Estrella",
+    "group":5
+  },
+  {
+    "name":"Fenix Corp",
+    "group":9
+  },
+  {
+    "name":"Nathan E. Rugel",
+    "group":1
+  },
+  {
+    "name":"Bagner Riofrio",
+    "group":1
+  },
+  {
+    "name":"Kary Tenorio",
+    "group":8
+  },
+  {
+    "name":"Ramiro Naranjo",
+    "group":4
+  },
+  {
+    "name":"Eithel Navarrete",
+    "group":5
+  },
+  {
+    "name":"RapazPaintball Cotopaxi",
+    "group":9
+  },
+  {
+    "name":"JosÚ Nieto",
+    "group":2
+  },
+  {
+    "name":"Andre Arcos",
+    "group":1
+  },
+  {
+    "name":"Martina Heredia",
+    "group":8
+  },
+  {
+    "name":"Ximena Vaca Merino",
+    "group":1
+  },
+  {
+    "name":"Dylan Joshua",
+    "group":2
+  },
+  {
+    "name":"Arlen Herrera",
+    "group":5
+  },
+  {
+    "name":"Naty Pau Pau",
+    "group":1
+  },
+  {
+    "name":"Juan Am¾n",
+    "group":4
+  },
+  {
+    "name":"Encontra Toros",
+    "group":9
+  },
+  {
+    "name":"VacaciOnes BaratisimAs",
+    "group":9
+  },
+  {
+    "name":"Cristian Sßenz",
+    "group":1
+  },
+  {
+    "name":"Paito Soto",
+    "group":8
+  },
+  {
+    "name":"Naty Quisanga",
+    "group":1
+  },
+  {
+    "name":"Andrea Travez",
+    "group":8
+  },
+  {
+    "name":"Miguel Oliva",
+    "group":1
+  },
+  {
+    "name":"Vale Cabezas G¾mez",
+    "group":5
+  },
+  {
+    "name":"Fernando Silva",
+    "group":5
+  },
+  {
+    "name":"Johnny Fabricio Andino Gavidia",
+    "group":8
+  },
+  {
+    "name":"Cristian Ascßzubi Reyes",
+    "group":4
+  },
+  {
+    "name":"May Rodriguez",
+    "group":8
+  },
+  {
+    "name":"Eder Mejia",
+    "group":4
+  },
+  {
+    "name":"Pepito Aucapi±a",
+    "group":8
+  },
+  {
+    "name":"Soraita Pe±aherrera Zambrano",
+    "group":8
+  },
+  {
+    "name":"Hugo Tapia Teran",
+    "group":8
+  },
+  {
+    "name":"Fabian Armas",
+    "group":2
+  },
+  {
+    "name":"Diana Paredes",
+    "group":8
+  },
+  {
+    "name":"Cesar Andres Flores Sanchez",
+    "group":1
+  },
+  {
+    "name":"Jessica Lino Vinacha",
+    "group":8
+  },
+  {
+    "name":"Mariagus Salazar Grandes",
+    "group":1
+  },
+  {
+    "name":"Andres Flores",
+    "group":2
+  },
+  {
+    "name":"Diego Ismael Velasco",
+    "group":1
+  },
+  {
+    "name":"Jenny Montoya",
+    "group":8
+  },
+  {
+    "name":"Mariana Tapia",
+    "group":8
+  },
+  {
+    "name":"Floyd E Dauber",
+    "group":1
+  },
+  {
+    "name":"Gsm Inmuebles Alquileres Temporarios",
+    "group":9
+  },
+  {
+    "name":"Johnny Alvarez",
+    "group":1
+  },
+  {
+    "name":"Danny Villamarin",
+    "group":2
+  },
+  {
+    "name":"Margarita Yanez",
+    "group":2
+  },
+  {
+    "name":"Nataly Molina",
+    "group":5
+  },
+  {
+    "name":"Carolina Villamarin Carrera",
+    "group":2
+  },
+  {
+    "name":"Marco Vinicio Castillo Hidalgo",
+    "group":8
+  },
+  {
+    "name":"Katherine Vallejo",
+    "group":8
+  },
+  {
+    "name":"Mayri Parre±o",
+    "group":1
+  },
+  {
+    "name":"Juan Carlos Alvarez",
+    "group":3
+  },
+  {
+    "name":"Carmita Susana Pati±o",
+    "group":8
+  },
+  {
+    "name":"Dalila Andrade M.",
+    "group":5
+  },
+  {
+    "name":"Maria Teresa Tapia",
+    "group":2
+  },
+  {
+    "name":"Pato Lomas",
+    "group":1
+  },
+  {
+    "name":"Uni¾n Misionera De Machala",
+    "group":9
+  },
+  {
+    "name":"Andres Paul Toscano",
+    "group":5
+  },
+  {
+    "name":"Sandra Yanez",
+    "group":2
+  },
+  {
+    "name":"Samuel Alcivar",
+    "group":8
+  },
+  {
+    "name":"Vanessa Tamayo",
+    "group":8
+  },
+  {
+    "name":"Lorenita Chßvez",
+    "group":5
+  },
+  {
+    "name":"Genoveva Andrade",
+    "group":7
+  },
+  {
+    "name":"Julio Andrade",
+    "group":8
+  },
+  {
+    "name":"Alex Yaguana",
+    "group":5
+  },
+  {
+    "name":"Veronica Ciguencia",
+    "group":7
+  },
+  {
+    "name":"Tania Leon Carlo",
+    "group":8
+  },
+  {
+    "name":"Vicky Cristina Cando",
+    "group":1
+  },
+  {
+    "name":"Angie Vergara",
+    "group":2
+  },
+  {
+    "name":"Ccalpha Rio Bonito",
+    "group":9
+  },
+  {
+    "name":"Peter Gill",
+    "group":8
+  },
+  {
+    "name":"Rosita Freire",
+    "group":8
+  },
+  {
+    "name":"Ale Ale",
+    "group":2
+  },
+  {
+    "name":"Pame Pav¾n Quevedo",
+    "group":8
+  },
+  {
+    "name":"Dahiana Pereyra",
+    "group":1
+  },
+  {
+    "name":"Andres Fuseau",
+    "group":5
+  },
+  {
+    "name":"Rosana Chiluisa",
+    "group":1
+  },
+  {
+    "name":"Santex Sport",
+    "group":9
+  },
+  {
+    "name":"Hitalo Coello Ortega",
+    "group":1
+  },
+  {
+    "name":"Roberto Rosales",
+    "group":8
+  },
+  {
+    "name":"Ross Mary Hunter",
+    "group":8
+  },
+  {
+    "name":"Pato Guaman",
+    "group":5
+  },
+  {
+    "name":"Vero Bustamante",
+    "group":7
+  },
+  {
+    "name":"Jon Hunter",
+    "group":1
+  },
+  {
+    "name":"Geovanny Salguero",
+    "group":4
+  },
+  {
+    "name":"Kikee D Morales",
+    "group":8
+  },
+  {
+    "name":"Yajaira VillamarÝn",
+    "group":2
+  },
+  {
+    "name":"Arturo Yescas",
+    "group":6
+  },
+  {
+    "name":"Iglesia BÝblica Restauraci¾n Latacunga",
+    "group":9
+  },
+  {
+    "name":"Pakita Fonseca",
+    "group":8
+  },
+  {
+    "name":"Eloisa Doraliza Salazar Esquibel",
+    "group":8
+  },
+  {
+    "name":"Cesar Quiroz",
+    "group":1
+  },
+  {
+    "name":"Katy Ramos",
+    "group":1
+  },
+  {
+    "name":"Rosa Aguilar",
+    "group":8
+  },
+  {
+    "name":"John Fabara Bravo",
+    "group":8
+  },
+  {
+    "name":"Vinicio Escobar",
+    "group":8
+  },
+  {
+    "name":"Iglesia Evangelica Emanuel Aiume",
+    "group":9
+  },
+  {
+    "name":"Alquiler En Capital",
+    "group":9
+  },
+  {
+    "name":"Fausto AndrÚs Villota",
+    "group":5
+  },
+  {
+    "name":"Vinny Paz",
+    "group":4
+  },
+  {
+    "name":"Maggie Hunter",
+    "group":8
+  },
+  {
+    "name":"Luli Salme",
+    "group":8
+  },
+  {
+    "name":"Rico Shinigami",
+    "group":5
+  },
+  {
+    "name":"Sofy Valladares",
+    "group":3
+  },
+  {
+    "name":"Santiago Lucio",
+    "group":5
+  },
+  {
+    "name":"Ver¾nica Arcos",
+    "group":1
+  },
+  {
+    "name":"Juan Carlos Garzon Sanchez",
+    "group":2
+  },
+  {
+    "name":"Christian Rosado",
+    "group":5
+  },
+  {
+    "name":"Francisco GuayasamÝn",
+    "group":9
+  },
+  {
+    "name":"Angie Lomas",
+    "group":8
+  },
+  {
+    "name":"Scott Edgren",
+    "group":8
+  },
+  {
+    "name":"Patricia Aramayo",
+    "group":7
+  },
+  {
+    "name":"Cesar Padilla",
+    "group":5
+  },
+  {
+    "name":"Vicentino de Coraz¾n",
+    "group":9
+  },
+  {
+    "name":"Leonela Moreira",
+    "group":5
+  },
+  {
+    "name":"Roel Berkhout",
+    "group":8
+  },
+  {
+    "name":"Naty Sandoval Pe±a",
+    "group":5
+  },
+  {
+    "name":"Juan Gabriel Orellana Carre±o",
+    "group":8
+  },
+  {
+    "name":"Snugket En Ecuador",
+    "group":9
+  },
+  {
+    "name":"La Huacada",
+    "group":9
+  }
+]
+  ,
+"links":[
+
+  {
+    "source":13,
+    "target":448,
+    "value":1
+  },
+  {
+    "source":13,
+    "target":528,
+    "value":1
+  },
+  {
+    "source":13,
+    "target":354,
+    "value":1
+  },
+  {
+    "source":13,
+    "target":392,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":45,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":525,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":412,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":206,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":43,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":246,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":297,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":501,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":29,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":253,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":375,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":273,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":346,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":220,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":489,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":33,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":151,
+    "value":1
+  },
+  {
+    "source":14,
+    "target":451,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":318,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":37,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":451,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":412,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":116,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":506,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":335,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":246,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":509,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":148,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":402,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":43,
+    "value":1
+  },
+  {
+    "source":16,
+    "target":483,
+    "value":1
+  }
+]
+}

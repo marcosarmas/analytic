@@ -1,0 +1,466 @@
+name,group
+Any Liz Mejia,1
+Carolina Pacheco,1
+David Alvarez,1
+Dina Mejia,1
+Vicentinos Corazon,1
+Delta Seguridad,1
+Ivan Vaca,1
+Rugel Washington,1
+Julio Andrade,1
+Lia Carolina Fernandez,1
+Mar+¼a Piedad Villamar+¼n Viteri,1
+Mayra Villamarin,1
+Paito Soto,1
+Paula Freire,1
+Peleg Manuel Castillo Hidalgo,1
+Peter Caryn Hasbrouck,1
+Peter Gill,1
+Juan Carlos Tobar Tovar,1
+Pototo Tux,1
+Priscilla Quiroz,1
+Diego Sanchez,1
+Raff S+ínchez,1
+Eric W. Briones Olsen,1
+Pame Arcos,1
+Pame Espinoza,1
+Pame Pav+¦n Quevedo,1
+Evelyn Pamela Baez Parra,1
+Pamela Tapia,1
+Pam Mera,1
+Pao Morales,1
+Pao Villamarin,1
+Paola Zambrano,1
+Paito Pao,1
+Pato Armas,1
+Pato Lomas,1
+Pato Guaman,1
+Patricia Aramayo,1
+Patricia Vasquez Duarte,1
+Vero Bustamante,1
+Patricio Reyes,1
+Patr+¦n Vicente Le+¦n Latacunga,1
+Patico Molina,1
+Paul Cede+¦o,1
+Paula Pazmi+¦o de Oliva,1
+Paulo Racines,1
+Pauly Batallas,1
+Juan Alberto Coello Suarez,1
+Cristian Veloz,1
+Samuel Alcivar,1
+Benjamin Vilca Villamarin,1
+Andres Guerrero,1
+Henry Rene Guillen Sanchez,1
+Buon Giorno,1
+Jenny Montoya,1
+Elementor Vaca,1
+Franklin Espinoza,1
+Familia Nieto Armas,1
+Wilma Zambrano,1
+Sebastian Carrera,1
+Francisco Guayasam+¡n,1
+Magui Espinosa,1
+Eduardo Carrillo,1
+Mariagus Salazar Grandes,1
+Vanessa Tamayo,1
+Paola Pe+¦aherrera,1
+Renato Daniel Mi+¦o Rosales,1
+Dalila Andrade M.,1
+Mari Carmen Sanchez Grandes,1
+Christian G+¦mez,1
+David Ch+ívez,1
+Fernando Silva,1
+Paola Saenz,1
+Fabian Vargas,1
+Patricio Vivero,1
+Rafael Sanchez,1
+Jose Ramirez,1
+Ramiro Naranjo,1
+Ram+¦n Asensio,1
+Ruben Dario Grandes,1
+Rebeca Quiroz,1
+Rebek Tigrero,1
+Ra+¦l Rosero Miranda,1
+Rico Shinigami,1
+Rita Maldonado,1
+Robert Gallegos,1
+Roberto Rosales,1
+Rocio Zapata B,1
+Roel Berkhout,1
+Roger Jaimes H,1
+Rosa Aguilar,1
+Rosana Chiluisa,1
+Rosita Yarleque de Sanchez,1
+Ross Mary Hunter,1
+Ruth Estella Dauber,1
+Ruth Maria Paz Cajamarca,1
+Samuel Quila,1
+Sandra Yanez,1
+Sandy Pazmi+¦o,1
+Santiago Ayala Teran,1
+Santiago Heredia Riera,1
+Santiago Lucio,1
+Santy Paredes,1
+Sarah No+®mie,1
+Sarita Lozano Samaniego,1
+Scott Edgren,1
+Juan Caguana,1
+Sandy Linda,1
+Silvia Yolanda Armas Yanez,1
+Fenix Corp,1
+Sofia Hidalgo,1
+Sof+¡a Zambrano Le+¦n,1
+Sofy Valladares,1
+Sole Herrera,1
+Sonia M+írquez,1
+Sonnia Riera,1
+Soraita Pe+¦aherrera Zambrano,1
+Souri Clinica Dental,1
+Stefany Riofrio,1
+Steffy Tapia,1
+Stephanie Lanusse,1
+Jon Hunter,1
+Susy Olalla,1
+Syrah Resto-bar,1
+Santex Sport,1
+Tania Leon Carlo,1
+Taty Armas Sanchez,1
+Tatiana Estrella,1
+Tere Alarcon,1
+Tere Brive,1
+Teresa Bricio,1
+Tilita Almeida Custode,1
+Tim Dauber,1
+Tito Villamar+¡n C,1
+To+¦o Mogro Viteri,1
+Iglesia Ume de Cuenca,1
+Uni+¦n Misionera De Machala,1
+VacaciOnes BaratisimAs,1
+Vale Cabezas G+¦mez,1
+Valery Amores,1
+Ver+¦nica Arcos,1
+Veronica Arregui Vera,1
+Veronica Ciguencia,1
+Ver+¦nica de Riofr+¡o,1
+Ver+¦nica Luzuriaga de P+®rez,1
+Veronica Zapata,1
+Vicentino de Coraz+¦n,1
+Vicky Cristina Cando,1
+Victor Eduardo Carrillo,1
+V+¡ctor P+®rez,1
+Victor Venegas,1
+V+¡ctor Galo Carrillo,1
+Ana Maria Guzman Rojas,1
+Vinicio Escobar,1
+Vinicio Romero,1
+Marco Vinicio Castillo Hidalgo,1
+Violeta Perero,1
+Vizca+¡no Hernan,1
+Wilson Tr+ívez,1
+Willer Leticia Montesinos,1
+Xavier Fernando Erazo Guerra,1
+Xime Medi,1
+Alex Balladares Rubio,1
+Abigail Veloz Abarca,1
+Abraham Sandoval,1
+Aiume Ecuador,1
+Alexander Sinchiguano Cajas,1
+Alexandra Espinoza,1
+Ali Alicia,1
+Alvaro Yanez L,1
+Am+®rica Armas,1
+Amparito Alegria,1
+Ana Luc+¡a Buitr+¦n Almeida,1
+Andre Arcos,1
+Andrea Guti+¿rrez Reinoso,1
+Andrea Travez,1
+Andr+®s Olalla,1
+Andres Maruri,1
+Andr+®s Fernando Garc+¡a,1
+Andres Fuseau,1
+Andres Paul Toscano,1
+Andre Alvarez,1
+Angel Ca+¦ar,1
+Angie Lomas,1
+H+®ctor Mejia,1
+Xime Mora,1
+Ximena Vaca Merino,1
+Yajaira Villamar+¡n,1
+Yesi M+®ndez,1
+Zonacustik Rock,1
+Eduardo Ram+¡rez,1
+Ysabel Any Diaz,1
+Aracely Galarza,1
+Aracely Zapata,1
+Ariel Caguana,1
+Arlen Herrera,1
+Abel Arturo Buitron Almeida,1
+Arturo Yescas,1
+Arturo Tapia,1
+Alfredo Xavier Torres Pozo,1
+Bagner Riofrio,1
+Belen Teran,1
+Brigith Reinoso,1
+Silvia Susana Buitron Almeida,1
+Camila Armas,1
+Camilo Esteban Parra Olalla,1
+Carito Le+¦n,1
+Carito-Andre Lomas,1
+Carla Jimenez,1
+Carlos Torres Fonseca,1
+Carlos Armas,1
+Carlos Uquillas,1
+Carlos Eduardo Orbea,1
+Carmen Guaman Vega,1
+Carolina Villamarin Carrera,1
+Carolina Zurita Cadena,1
+Ccalpha Rio Bonito,1
+Cesar Padilla,1
+Celia Lanusse,1
+Cesar Quiroz,1
+Cesar Veloz,1
+Cesar Andres Flores Sanchez,1
+Christian Rosado,1
+Cinthia Duque,1
+Cristian Rodrigo Molina Quinteros,1
+Conjunto Terranova,1
+Cris Berrazueta,1
+Cristian Asc+ízubi Reyes,1
+Cristhian Mauricio,1
+Criss Riofrio,1
+Cristhian Flores,1
+Cristian Alvarez Mena,1
+Cristian Fabi+ín Santamar+¡a Paez,1
+Cristian S+íenz,1
+Cristina Hunter,1
+Cristina Narv+íez,1
+Cristobal Gomez,1
+Damaris Abigail,1
+Daniel Rugel,1
+Daniela Jacome,1
+Dario Calder+¦n Su+írez,1
+David Hasbrouck,1
+David Barba Naranjo,1
+David Arcos,1
+David Paz,1
+Daya Acosta,1
+Daysi Paola,1
+Decc Espe,1
+Delia Balaoi,1
+Demencia Azul Roja,1
+Diegu+¡n Brito,1
+Diana Castillo,1
+Diana Velasco,1
+Diana Diaz Alf+®rez,1
+Dianita Bustos,1
+Diego Moscoso,1
+Diego Paredes Coloma,1
+Diego Pule,1
+Diego Segovia,1
+Diego Ismael Velasco,1
+Diana Montesinos,1
+Daniel Flores,1
+Doris Navarrete,1
+Doris Tapia Armas,1
+Doris Villamarin,1
+Dume Aiume,1
+Dylan Joshua,1
+E-Ciencia Espe,1
+Eder Mejia,1
+Edison Caiza,1
+Edison Mera Arias,1
+Eduardo Mauricio Campa+¦a Ortega,1
+Chalito Salazar,1
+Eithel Navarrete,1
+Ale Ale,1
+Rosita Freire,1
+Elizabeth Veloz,1
+Elizabeth Villa,1
+Ely Samaniego,1
+Erika Conde,1
+Escuela Semillas Vida,1
+Espe Extensi+¦n Latacunga,1
+Estefania Buitron,1
+Fabian Ortiz,1
+Fabian Armas,1
+Fabian Quimiz Bravo,1
+Fanny Roca,1
+Fausto Armendariz,1
+Fausto Gamboa,1
+Fausto Andr+®s Villota,1
+Felix Torres,1
+Alex Yaguana,1
+Andres Flores,1
+Floyd E Dauber,1
+Floyd E Dauber,1
+Francisco San Lucas,1
+Francisko Lomas,1
+Franco Ordo+¦ez Leon,1
+Freddy Orbea,1
+Gabi Garz+¦n,1
+Edgar OT,1
+Gabby Rivadeneira,1
+Gabu Buitron,1
+Gaby Narv+íez,1
+Galo Salazar Espinoza,1
+Gardu Perez,1
+Genoveva Andrade,1
+Geovanny Salguero,1
+Geovi Ortiz Arregui,1
+Raul A. Guerrero,1
+Gianina Castillo,1
+Gioconda Herrera,1
+Giovanny Jim+®nez,1
+Gis Palma Pacheco,1
+Gloria Maria Valverde Montero,1
+Gerald Mendoza,1
+Gonzalo de la Vega,1
+Pepe Quiroz,1
+Gustavo Tapia,1
+Danny Villamarin,1
+Hilda Cordova,1
+Hitalo Coello Ortega,1
+Hugo Tapia Teran,1
+Iglesia B+¡blica Restauraci+¦n Latacunga,1
+Iglesia Evangelica Emanuel Aiume,1
+Irene Bravo Reyes,1
+Irene Quillupangui,1
+Isabel Carrera,1
+Israel Montesinos,1
+Pakita Fonseca,1
+Jacqueline Suarez Tamayo,1
+Jadira Garcia,1
+Jairo Mena Guzman,1
+Janeth Claros Vasquez,1
+Janeth Segovia,1
+Jaquelin Paz,1
+Javier Segovia,1
+Javier Chamorro,1
+Juan Carlos Jimenez Velez,1
+Jennifer Hunter,1
+Jenny Montoya,1
+Jenny Villamarin,1
+Jerem+¼as Vaca,1
+Jessica Lino Vinacha,1
+Jessica Roxana Lino Vinacha,1
+Jessica Maricela Guevara Toalombo,1
+Jose Luis Carrillo Medina,1
+John Fabara Bravo,1
+Johnny Fabricio Andino Gavidia,1
+Jonathan Tigrero,1
+Jorge David,1
+Jorge Rosales,1
+Jorge Tigrero Ruiz,1
+Veterinaria Paraiso DE Las Mascotas,1
+Jorge Uquillas,1
+Junior Bonilla,1
+Jorge Luis Tigrero Bricio,1
+Jos+® Nieto,1
+J David Vallejo B,1
+Joseluu Every Where,1
+Jos+® Mena,1
+Jose Caiza,1
+Josias Vaca,1
+Josue Quiroz,1
+Juan Carlos Alvarez,1
+Juan Am+¦n,1
+Juan Pablo Navas,1
+Juan Pe+¦aherrera Sandoval,1
+Juan Carlos Garzon Sanchez,1
+Juan Carlos Larrea Naranjo,1
+Juan Carlos Parre+¦o,1
+Juan Carlos Velasquez Baquedano,1
+Juan Panchi Cajas,1
+Juan Gabriel Orellana Carre+¦o,1
+Julio C+®sar Tapia Le+¦n,1
+Julissa Feijoo,1
+Junior O+¦a Ordo+¦ez,1
+Karina Alexandra Ortiz Arregui,1
+Kary Tenorio,1
+Katty Carrera,1
+Katy Ramos,1
+Katy Molina,1
+Keila Torres,1
+Kenton Rowe,1
+Kimberly Berkhout,1
+Hiv Proa+¦o,1
+Kristen Uquillas,1
+Carmita Susana Pati+¦o,1
+Kti Villamarin,1
+La Huacada,1
+Latacunga Hermosa Ut,1
+Laura Ajila,1
+Laura Maldonado,1
+Leo Guevara,1
+Leonela Moreira,1
+Leyla Iza Sanhueza,1
+Fernando S+ínchez,1
+Lidia Bastidas Castro,1
+Liu Fuzi,1
+ðøð¥ÐÇðÁð¢Ðï ðáð¦ð+ð¥Ðü,1
+Lore Lo,1
+Lorenita Ch+ívez,1
+Lucrecia Paz,1
+Luis Andino Torres,1
+Luis Carrera,1
+Luli Salme,1
+Mafer Villamarin Guti+®rrez,1
+Mafer Carrera,1
+Maggie Hunter,1
+Majito Velasquez Bricio,1
+Marcelo Reinoso Villamar+¡n,1
+Marcelo Saenz,1
+Marco Jaramillo,1
+Margarita Yanez,1
+Maria Teresa Tapia,1
+Vero Espinel,1
+Maria Nieto,1
+Maria Ambar Olalla Loor,1
+Maria Elena Armas,1
+Mar+¡a Hipatia Reinoso Villamar+¡n,1
+Mariela Palma Pacheco,1
+Martina Heredia,1
+Maru Tovar,1
+Vinny Paz,1
+Mateo Rugel,1
+Mateo Rugel,1
+Mauricio Morales,1
+May Nu+¦ez,1
+May P+®rez,1
+May Robalino,1
+Maye Tapia,1
+Mayri Parre+¦o,1
+Mena Aguilera,1
+Mercedes Mejia Araque,1
+Michu Barrionuevo Mar+¡n,1
+Miguel Oliva,1
+Miguel Alejandro,1
+Miguel Tovar,1
+Miguel Maximiliano Alban Pacheco,1
+Monika Mirela,1
+Mony Villamarin,1
+Margarita Genoveva Sanchez Yanez,1
+Municipio Latacunga Gobierno,1
+Nadia Montesinos de Pedraza,1
+Nancy Jeanneth Simba+¦a Basantes,1
+Naomi Gill,1
+Nataly Molina,1
+Nathan E. Rugel,1
+Naty Quisanga,1
+Naty Sandoval Pe+¦a,1
+Naty Pau Pau,1
+Nelson B. Villamar+¡n,1
+N+®stor Herrera C+írdenas,1
+Nina Sandra Castillo,1
+Npi Tu Zona,1
+Numismatic Ecuador,1
+Oansa Ume Machala,1
+Olguita Villamarin,1
+Mercy Salas,1
+Omar Chamorro,1
+Orlando Ayala T,1
+Oscar Vargas Castillo,1
+Pablo Reyes,1
+Pablo Bustillos,1
+Pablo Perri,1
+RapazPaintball Cotopaxi,1
